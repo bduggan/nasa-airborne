@@ -1,0 +1,3239 @@
+$VAR1 = {
+          'instruments' => [
+                             {
+                               'title' => 'Airborne Tunable Laser Absorption Spectrometer',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'id' => 'ATLAS',
+                               'url' => '/instrument/ATLAS_0',
+                               'type' => undef
+                             },
+                             {
+                               'id' => 'AATS-14',
+                               'url' => '/instrument/AATS-14',
+                               'type' => 'Photometer',
+                               'title' => '14-channel NASA Ames Airborne Tracking Sunphotometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'J-31',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'id' => 'SI/CIMS-2',
+                               'type' => 'CIMS',
+                               'url' => '/instrument/SI/CIMS-2',
+                               'title' => '2 Channel Selected Ion Chemical Ionization Mass Spectrometer',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'id' => '2DS',
+                               'url' => '/instrument/2DS',
+                               'type' => 'Particle imager',
+                               'title' => '2D-S Stereo Probe',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => '2DC Hydrometeor Imaging Probe',
+                               'type' => 'Particle imager',
+                               'url' => '/instrument/2DC',
+                               'id' => '2DC'
+                             },
+                             {
+                               'title' => 'Accumulation Radar',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'url' => '/instrument/Accumulation%20Radar',
+                               'type' => 'Radar',
+                               'id' => ''
+                             },
+                             {
+                               'url' => '/instrument/AMPR',
+                               'type' => 'Microwave Radiometer',
+                               'id' => 'AMPR',
+                               'title' => 'Advanced Microwave Precipitation Radiometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'type' => 'Dropsonde',
+                               'url' => '/instrument/AVAPS',
+                               'id' => 'AVAPS',
+                               'title' => 'Advanced Vertical Atmospheric Profiling System',
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ],
+                               'title' => 'Advanced Whole Air Sampler',
+                               'type' => 'Whole Air Sampling',
+                               'url' => '/instrument/AWAS',
+                               'id' => 'AWAS'
+                             },
+                             {
+                               'id' => 'AMS',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/AMS_0',
+                               'title' => 'Aerodyne Aerosol Mass Spectrometer',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'id' => '',
+                               'url' => '/instrument/Aerosol%20Lidar',
+                               'type' => 'Lidar',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Aerosol Lidar'
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Aerosol Optical Properties',
+                               'url' => '/instrument/AERO3X',
+                               'type' => 'Optical particle counter',
+                               'id' => 'AERO3X'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Aerosol/Cloud Particle Impactor/Replicator',
+                               'id' => 'ACIR',
+                               'type' => undef,
+                               'url' => '/instrument/ACIR'
+                             },
+                             {
+                               'title' => 'Airborne 2-Channel Laser Infrared Absorption Spectrometer',
+                               'aircraft' => [
+                                               'Balloon'
+                                             ],
+                               'id' => 'ALIAS-II',
+                               'url' => '/instrument/ALIAS-II',
+                               'type' => 'Spectrometer'
+                             },
+                             {
+                               'type' => 'Gas chromatography',
+                               'url' => '/instrument/ACATS',
+                               'id' => 'ACATS',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Airborne Chromatograph For Atmospheric Trace Species'
+                             },
+                             {
+                               'title' => 'Airborne Cloud Radar',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'Twin Otter (DOE)'
+                                             ],
+                               'id' => 'ACR',
+                               'type' => 'Radar',
+                               'url' => '/instrument/ACR'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Airborne Coherent Lidar for Advanced In-flight Measurements',
+                               'id' => 'ACLAIM',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/ACLAIM'
+                             },
+                             {
+                               'id' => 'ACAM',
+                               'type' => 'Camera',
+                               'url' => '/instrument/ACAM',
+                               'title' => 'Airborne Compact Atmospheric Mapper',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'type' => undef,
+                               'url' => '/instrument/ADELE',
+                               'id' => 'ADELE',
+                               'title' => 'Airborne Detector for Energetic Lightning Emissions',
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/AESMIR',
+                               'type' => 'Radiometer',
+                               'id' => 'AESMIR',
+                               'title' => 'Airborne Earth Science Microwave Imaging Radiometer',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Airborne Expendable Conductivity Temperature Depth Probe',
+                               'id' => 'AXCTD',
+                               'url' => '/instrument/AXCTD',
+                               'type' => 'Dropsonde'
+                             },
+                             {
+                               'aircraft' => [
+                                               'G-III (C-20A) - Armstrong'
+                                             ],
+                               'title' => 'Airborne Glacier and Land Ice Surface Topography Interferometer',
+                               'type' => 'Interferometer',
+                               'url' => '/instrument/GLISTIN-A',
+                               'id' => 'GLISTIN-A'
+                             },
+                             {
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/ALIS',
+                               'id' => 'ALIS',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Airborne Laser Isotope Spectrometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Airborne Laser Terrain Mapper Experiment',
+                               'url' => '/instrument/ALTM',
+                               'type' => 'Lidar',
+                               'id' => 'ALTM'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Airborne Multi-angle Imaging SpectroRadiometer',
+                               'id' => 'AirMISR',
+                               'url' => '/instrument/AirMISR',
+                               'type' => 'Camera'
+                             },
+                             {
+                               'title' => 'Airborne Multi-angle SpectroPolarimeter Imager',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'type' => 'Camera',
+                               'url' => '/instrument/AirMSPI',
+                               'id' => 'AirMSPI'
+                             },
+                             {
+                               'title' => 'Airborne Multichannel Microwave Radiometer',
+                               'aircraft' => [
+                                               'Convair-580',
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ],
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/AMMR',
+                               'id' => 'AMMR'
+                             },
+                             {
+                               'id' => 'AOCI',
+                               'url' => '/instrument/AOCI',
+                               'type' => 'Spectrometer',
+                               'title' => 'Airborne Ocean Color Imager',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Airborne Rain Mapping Radar',
+                               'type' => 'Radar',
+                               'url' => '/instrument/ARMAR',
+                               'id' => 'ARMAR'
+                             },
+                             {
+                               'id' => 'AROTAL',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/AROTAL',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Airborne Raman Ozone, Temperature, and Aerosol Lidar'
+                             },
+                             {
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'Airborne Scanning Microwave Limb Sounder',
+                               'id' => 'A-SMLS',
+                               'url' => '/instrument/A-SMLS',
+                               'type' => 'Limb Sounder'
+                             },
+                             {
+                               'id' => 'APR-2',
+                               'type' => 'Radar',
+                               'url' => '/instrument/APR-2_0',
+                               'title' => 'Airborne Second Generation Precipitation Radar',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'title' => 'Airborne Submillimeter Radiometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/ASUR',
+                               'id' => 'ASUR'
+                             },
+                             {
+                               'type' => 'Radar',
+                               'url' => '/instrument/AIRSAR',
+                               'id' => 'AIRSAR',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Airborne Synthetic Aperture Radar'
+                             },
+                             {
+                               'id' => 'ATM',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/ATM',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'Twin Otter'
+                                             ],
+                               'title' => 'Airborne Topographic Mapper'
+                             },
+                             {
+                               'title' => 'Airborne Topographic Mapper 2',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'type' => 'Lidar',
+                               'url' => '/instrument/ATM2',
+                               'id' => 'ATM2'
+                             },
+                             {
+                               'url' => '/instrument/ATM3',
+                               'type' => 'Lidar',
+                               'id' => 'ATM3',
+                               'title' => 'Airborne Topographic Mapper 3',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Airborne Topographic Mapper 4',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/ATM4',
+                               'id' => 'ATM4'
+                             },
+                             {
+                               'title' => 'Airborne Tropospheric Hydrogen Oxides Sensor',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'ATHOS',
+                               'url' => '/instrument/ATHOS',
+                               'type' => 'Fluorescence'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Airborne Tunable Laser Absorption Spectrometer',
+                               'id' => 'ATLAS',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/ATLAS'
+                             },
+                             {
+                               'url' => '/instrument/AVIRIS',
+                               'type' => 'Spectrometer',
+                               'id' => 'AVIRIS',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'Proteus',
+                                               'Twin Otter',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Airborne Visible/Infrared Imaging Spectrometer'
+                             },
+                             {
+                               'url' => '/instrument/ALIAS',
+                               'type' => 'Laser absorption',
+                               'id' => 'ALIAS',
+                               'title' => 'Aircraft Laser Infrared Absorption Spectrometer',
+                               'aircraft' => [
+                                               'Balloon',
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'Alpha Jet'
+                                             ],
+                               'title' => 'Alpha Jet Ozone Instrument',
+                               'type' => undef,
+                               'url' => '/instrument/Alpha%20Jet%20Ozone%20Instrument',
+                               'id' => ''
+                             },
+                             {
+                               'id' => 'DIM',
+                               'url' => '/instrument/DIM',
+                               'type' => 'Camera',
+                               'title' => 'Ames Digital Imager',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'id' => 'AESOP',
+                               'type' => undef,
+                               'url' => '/instrument/AESOP',
+                               'aircraft' => [
+                                               'Twin Otter'
+                                             ],
+                               'title' => 'Ames Extinction Scattering Optical Property Instrument'
+                             },
+                             {
+                               'type' => 'Navigation recorder',
+                               'url' => '/instrument/POS%20AV',
+                               'id' => 'POS AV',
+                               'title' => 'Applanix POS System',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'Caravan',
+                                               'Cessna 402B',
+                                               'DC-8',
+                                               'J-31',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/ARGUS',
+                               'type' => 'Laser absorption',
+                               'id' => 'ARGUS',
+                               'title' => 'Argus Tunable Diode Laser Instrument',
+                               'aircraft' => [
+                                               'Balloon',
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'AVOCET',
+                               'url' => '/instrument/AVOCET',
+                               'type' => 'Spectrometer (in situ)',
+                               'title' => 'Atmospheric Vertical Observations of CO2 in the Earth\'s Troposphere',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'id' => 'AIM-IT',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/AIM-IT',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Automatic Meteor Tracker with Imager and Slit Spectrograph'
+                             },
+                             {
+                               'url' => '/instrument/AMS',
+                               'type' => 'Spectrometer',
+                               'id' => 'AMS',
+                               'aircraft' => [
+                                               'Altair',
+                                               'B200 - LARC',
+                                               'Caravan',
+                                               'ER-2',
+                                               'Ikhana'
+                                             ],
+                               'title' => 'Autonomous Modular Sensor'
+                             },
+                             {
+                               'type' => undef,
+                               'url' => '/instrument/Balloon%20FPH',
+                               'id' => 'Balloon FPH',
+                               'title' => 'Balloon Borne Frost Point Hygrometer',
+                               'aircraft' => [
+                                               'Balloon'
+                                             ]
+                             },
+                             {
+                               'title' => 'Balloonsondes (NOAA)',
+                               'aircraft' => [],
+                               'id' => 'Balloonsondes (NOAA)',
+                               'type' => undef,
+                               'url' => '/instrument/Balloonsondes%20%28NOAA%29'
+                             },
+                             {
+                               'id' => 'BNOD',
+                               'url' => '/instrument/BNOD',
+                               'type' => 'Fluorescence',
+                               'title' => 'Berkeley Nitrogen Oxides Detector',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Broadband CO2 Lidar - 1.5 micron version',
+                               'url' => '/instrument/Broadband%20CO2%20Lidar%20-%201.5%20micron%20version',
+                               'type' => 'Lidar',
+                               'id' => ''
+                             },
+                             {
+                               'id' => 'BBR',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/BBR',
+                               'title' => 'Broadband Infrared Radiometers',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'P-3 Orion',
+                                               'C-130 Hercules'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Carbon Dioxide and Ozone Airborne in Situ Tracers',
+                               'url' => '/instrument/COAST',
+                               'type' => undef,
+                               'id' => 'COAST'
+                             },
+                             {
+                               'title' => 'Carbon Dioxide Laser Absorption Spectrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'Twin Otter'
+                                             ],
+                               'url' => '/instrument/CO2LAS',
+                               'type' => 'Spectrometer (in situ)',
+                               'id' => 'CO2LAS'
+                             },
+                             {
+                               'type' => 'Laser absorption',
+                               'url' => '/instrument/COBALT',
+                               'id' => 'COBALT',
+                               'title' => 'Carbon Monoxide By Attenuation of Laser Transmission',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'WB-57'
+                                             ],
+                               'title' => 'CCD Actinic Flux Spectroradiometers',
+                               'id' => 'CAFS',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/CAFS'
+                             },
+                             {
+                               'type' => 'CIMS',
+                               'url' => '/instrument/GT-CIMS',
+                               'id' => 'GT-CIMS',
+                               'title' => 'Chemical Ionization Mass Spectrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'NSF G-V'
+                                             ]
+                             },
+                             {
+                               'id' => 'CIT-CIMS',
+                               'type' => 'CIMS',
+                               'url' => '/instrument/CIT-CIMS',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'ER-2'
+                                             ],
+                               'title' => 'Chemical Ionization Mass Spectrometer'
+                             },
+                             {
+                               'url' => '/instrument/NOAA%20CIMS',
+                               'type' => 'CIMS',
+                               'id' => 'NOAA CIMS',
+                               'title' => 'Chemical Ionization Mass Spectrometer',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'ClONO2',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/ClONO2',
+                               'title' => 'Chlorine Nitrate Instrument',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'id' => 'CLH',
+                               'type' => undef,
+                               'url' => '/instrument/CLH',
+                               'aircraft' => [
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Closed-path Laser Hygrometer'
+                             },
+                             {
+                               'id' => 'CLH2',
+                               'type' => 'Laser absorption',
+                               'url' => '/instrument/CLH2',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Closed-path Laser Hygrometer 2'
+                             },
+                             {
+                               'aircraft' => [
+                                               'J-31',
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Cloud Absorption Radiometer',
+                               'url' => '/instrument/CAR',
+                               'type' => 'Radiometer',
+                               'id' => 'CAR'
+                             },
+                             {
+                               'id' => 'CAPS',
+                               'url' => '/instrument/CAPS',
+                               'type' => 'Particle imager',
+                               'title' => 'Cloud Aerosol and Precipitation Spectrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Cloud Droplet Probe',
+                               'type' => 'Particle imager',
+                               'url' => '/instrument/FCDP',
+                               'id' => 'CDP'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Cloud Imaging Probe',
+                               'id' => 'CIP',
+                               'url' => '/instrument/CIP',
+                               'type' => 'Particle imager'
+                             },
+                             {
+                               'type' => 'Optical particle counter',
+                               'url' => '/instrument/CIN',
+                               'id' => 'CIN',
+                               'title' => 'Cloud Integrating Nephelometer',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'Citation',
+                                               'Twin Otter',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Cloud Lidar System',
+                               'id' => 'CLS',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/CLS'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Citation',
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Cloud Particle Imager',
+                               'type' => 'Particle imager',
+                               'url' => '/instrument/CPI',
+                               'id' => 'CPI'
+                             },
+                             {
+                               'title' => 'Cloud Physics Lidar',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'url' => '/instrument/CPL',
+                               'type' => 'Lidar',
+                               'id' => 'CPL'
+                             },
+                             {
+                               'id' => 'CRS',
+                               'url' => '/instrument/CRS',
+                               'type' => 'Radar',
+                               'title' => 'Cloud Radar System',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'CSI',
+                               'type' => 'Counterflow virtual impactor',
+                               'url' => '/instrument/CSI',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Cloud Spectrometer and Impactor'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Cloud, Aerosol, and Precipitation Spectrometer',
+                               'id' => 'CAPS - DC8',
+                               'url' => '/instrument/CAPS%20-%20DC8',
+                               'type' => 'Spectrometer (in situ)'
+                             },
+                             {
+                               'id' => 'CAPS - WB57',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/CAPS%20-%20WB57',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'Cloud, Aerosol, and Precipitation Spectrometer'
+                             },
+                             {
+                               'url' => '/instrument/CN%20-%20Hawaii',
+                               'type' => 'CN counter',
+                               'id' => '',
+                               'title' => 'CN - Hawaii',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'Balloon'
+                                             ],
+                               'title' => 'CO2 Weather Balloon Spectrometer',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/CO2-WEBS',
+                               'id' => 'CO2-WEBS'
+                             },
+                             {
+                               'url' => '/instrument/CARDS',
+                               'type' => 'Radar',
+                               'id' => 'CARDS',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Coherent Radar Depth Sounder'
+                             },
+                             {
+                               'id' => 'CAMS',
+                               'url' => '/instrument/CAMS',
+                               'type' => 'Spectrometer (in situ)',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Compact Atmospheric Multispecies Spectrometer'
+                             },
+                             {
+                               'id' => 'CPFM',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/CPFM',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Composition and Photo-Dissociative Flux Measurement'
+                             },
+                             {
+                               'type' => 'CN counter',
+                               'url' => '/instrument/CNC',
+                               'id' => 'CNC',
+                               'title' => 'Condensation Nuclei Counter',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Condensation Nucleus Counters (CNCs) and Electrical Aerosol Sampler (EAS)',
+                               'url' => '/instrument/CNC_0',
+                               'type' => undef,
+                               'id' => 'CNC'
+                             },
+                             {
+                               'url' => '/instrument/CoSMIR',
+                               'type' => 'Radiometer',
+                               'id' => 'CoSMIR',
+                               'title' => 'Conical Scanning Millimeter-wave Imaging Radiometer',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'type' => 'Microwave Radiometer',
+                               'url' => '/instrument/CoSSIR',
+                               'id' => 'CoSSIR',
+                               'title' => 'Conical Scanning Submillimeter-wave Imaging Radiometer',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'C-STAR',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/C-STAR',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Conically-Scanning Two-look Airborne Radiometer'
+                             },
+                             {
+                               'title' => 'Continuous Flow Diffusion Chambers',
+                               'aircraft' => [
+                                               'Citation',
+                                               'DC-8'
+                                             ],
+                               'type' => 'Optical particle counter',
+                               'url' => '/instrument/CFDC',
+                               'id' => 'CFDC'
+                             },
+                             {
+                               'title' => 'Continuous Flow Streamwise Thermal Gradient CCN Counter',
+                               'aircraft' => [
+                                               'Balloon',
+                                               'P-3 Orion'
+                                             ],
+                               'url' => '/instrument/CFSTGC',
+                               'type' => 'CN counter',
+                               'id' => 'CFSTGC'
+                             },
+                             {
+                               'title' => 'Cooled CCD Slit-less Spectrograph',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'url' => '/instrument/ASTRO',
+                               'type' => 'Spectrometer (in situ)',
+                               'id' => 'ASTRO'
+                             },
+                             {
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'Cosmic Dust Collectors',
+                               'type' => undef,
+                               'url' => '/instrument/CDC',
+                               'id' => 'CDC'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Citation',
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Counterflow Virtual Impactor',
+                               'type' => 'Counterflow virtual impactor',
+                               'url' => '/instrument/CVI',
+                               'id' => 'CVI'
+                             },
+                             {
+                               'type' => undef,
+                               'url' => '/instrument/CRYO',
+                               'id' => 'CRYO',
+                               'title' => 'Cryogenic Hygrometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Delay-Doppler Phase-monopulse Radar',
+                               'id' => 'D2P',
+                               'url' => '/instrument/D2P',
+                               'type' => 'Radar'
+                             },
+                             {
+                               'title' => 'Difference Frequency Generation Absorption Spectrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ],
+                               'url' => '/instrument/DFGAS',
+                               'type' => 'Spectrometer (in situ)',
+                               'id' => 'DFGAS'
+                             },
+                             {
+                               'id' => 'DACOM',
+                               'url' => '/instrument/DACOM',
+                               'type' => 'Laser absorption',
+                               'title' => 'Differential Absorption Carbon Monoxide Measurement',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'type' => 'Lidar',
+                               'url' => '/instrument/DIAL_0',
+                               'id' => 'DIAL',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Differential Absorption Lidar'
+                             },
+                             {
+                               'id' => 'DASH-SP',
+                               'type' => 'Differential mobility',
+                               'url' => '/instrument/DASH-SP',
+                               'title' => 'Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/Differential%20mobility',
+                               'type' => 'Differential mobility',
+                               'id' => '',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Differential mobility'
+                             },
+                             {
+                               'type' => 'Camera',
+                               'url' => '/instrument/DCS',
+                               'id' => 'DCS',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'DC-8',
+                                               'ER-2',
+                                               'Twin Otter',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Digital Camera System'
+                             },
+                             {
+                               'type' => 'Camera',
+                               'url' => '/instrument/DMS',
+                               'id' => 'DMS',
+                               'title' => 'Digital Mapping System',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'id' => 'DLH',
+                               'url' => '/instrument/DLH',
+                               'type' => 'Laser absorption',
+                               'title' => 'Diode Laser Hygrometer',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'DC-8',
+                                               'Global Hawk',
+                                               'P-3 Orion',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'title' => 'Direct beam Irradiance Airborne Spectrometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'DIAS',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/DIAS'
+                             },
+                             {
+                               'type' => 'Lidar',
+                               'url' => '/instrument/DAWN',
+                               'id' => 'DAWN',
+                               'title' => 'Doppler Aerosol WiNd Lidar',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Dropsondes - DC-8',
+                               'id' => 'D8D',
+                               'type' => 'Dropsonde',
+                               'url' => '/instrument/D8D'
+                             },
+                             {
+                               'url' => '/instrument/DCALS',
+                               'type' => 'Laser absorption',
+                               'id' => 'DCALS',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Dual Channel Airborne tunable diode Laser Spectrometer'
+                             },
+                             {
+                               'title' => 'Dual-Beam UV-Absorption Ozone Photometer',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'type' => 'Photometer',
+                               'url' => '/instrument/NOAA%20O3',
+                               'id' => 'NOAA O3'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Dual-Frequency Airborne Precipitation Radar',
+                               'id' => 'PR-2',
+                               'type' => 'Radar',
+                               'url' => '/instrument/PR-2'
+                             },
+                             {
+                               'id' => 'ESTAR (RadSTAR-P)',
+                               'url' => '/instrument/ESTAR%20%28RadSTAR-P%29',
+                               'type' => 'Radiometer',
+                               'title' => 'Electronically Scanning Thinned-Array Radiometer',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'title' => 'Enhanced MODIS Airborne Simulator',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'id' => 'eMAS',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/eMAS'
+                             },
+                             {
+                               'id' => 'EDOP',
+                               'type' => 'Radar',
+                               'url' => '/instrument/EDOP',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'ER-2 Doppler Radar'
+                             },
+                             {
+                               'title' => 'ER-2 High Altitude Dropsonde',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'url' => '/instrument/EHAD',
+                               'type' => 'Dropsonde',
+                               'id' => 'EHAD'
+                             },
+                             {
+                               'type' => 'Interferometer',
+                               'url' => '/instrument/FPI',
+                               'id' => 'FPI',
+                               'title' => 'Fabry-Perot Interferometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'type' => undef,
+                               'url' => '/instrument/FISH',
+                               'id' => 'FISH',
+                               'title' => 'Fast In-situ Stratospheric Hygrometer',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/SLIT',
+                               'id' => 'SLIT',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Fibre-optic Fed Slit-Spectrograph'
+                             },
+                             {
+                               'id' => '',
+                               'type' => 'Navigation recorder',
+                               'url' => '/instrument/Flight%20Modem',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Flight Modem'
+                             },
+                             {
+                               'id' => 'FCAS',
+                               'type' => 'Optical particle counter',
+                               'url' => '/instrument/FCAS',
+                               'title' => 'Focused Cavity Aerosol Spectrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'FSSP',
+                               'type' => 'Optical particle counter',
+                               'url' => '/instrument/FSSP',
+                               'aircraft' => [
+                                               'Citation',
+                                               'DC-8',
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Forward Scattering Spectrometer Probe'
+                             },
+                             {
+                               'title' => 'Fourier Transform Infrared Spectrometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'FTIR',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/FTIR_0'
+                             },
+                             {
+                               'title' => 'Fourier-Transform infrared spectrometers',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'url' => '/instrument/FTIR',
+                               'type' => 'Spectrometer',
+                               'id' => 'FTIR'
+                             },
+                             {
+                               'id' => 'FMCW',
+                               'url' => '/instrument/FMCW',
+                               'type' => 'Radar',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Frequency Modulated Continuous Wave Snow Thickness Radar'
+                             },
+                             {
+                               'title' => 'Frost Point (NOAA)',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'id' => 'FP',
+                               'type' => undef,
+                               'url' => '/instrument/FP'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'FSSP-300 Aerosol Spectrometer',
+                               'url' => '/instrument/FPCAS',
+                               'type' => undef,
+                               'id' => 'FPCAS'
+                             },
+                             {
+                               'url' => '/instrument/SMPS',
+                               'type' => 'Differential mobility',
+                               'id' => 'SMPS',
+                               'title' => 'G-V Scanning Mobility Particle Sizer',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ]
+                             },
+                             {
+                               'id' => 'GAMS/LAABS',
+                               'url' => '/instrument/GAMS/LAABS',
+                               'type' => 'Solar Occultation',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Gas and Aerosol Measurement Sensor/Langley Airborne A-Band Spectrometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Georgia Tech Laser-Induced Fluorescence',
+                               'id' => 'GT-LIF',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/GT-LIF'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Georgia Tech NO Instrument',
+                               'id' => 'GT-NO',
+                               'url' => '/instrument/GT-NO',
+                               'type' => 'Chemiluminescence'
+                             },
+                             {
+                               'id' => 'GIFS',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/GIFS',
+                               'title' => 'Geostationary Imaging Fabry-Perot Spectrometer',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'id' => 'GISMO',
+                               'type' => 'Interferometer',
+                               'url' => '/instrument/GISMO',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Global Ice-sheet Mapping Orbiter'
+                             },
+                             {
+                               'title' => 'Goodrich Clear Air Turbulence Data Collection',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'url' => '/instrument/Goodrich%20Clear%20Air%20Turbulence%20Data%20Collection',
+                               'type' => undef,
+                               'id' => ''
+                             },
+                             {
+                               'title' => 'GPS Flight Management System',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'id' => 'GPFMS',
+                               'url' => '/instrument/GPFMS',
+                               'type' => 'Navigation recorder'
+                             },
+                             {
+                               'id' => 'GPS/RS',
+                               'url' => '/instrument/GPS/RS',
+                               'type' => undef,
+                               'title' => 'GPS Radiosondes',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'GPS Remote Sensing Instrument',
+                               'id' => 'GPSRS',
+                               'url' => '/instrument/GPSRS',
+                               'type' => undef
+                             },
+                             {
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'HAIS Fast-O3',
+                               'url' => '/instrument/Fast-O3',
+                               'type' => 'Chemiluminescence',
+                               'id' => 'Fast-O3'
+                             },
+                             {
+                               'id' => 'HAL',
+                               'url' => '/instrument/HAL',
+                               'type' => 'Fluorescence',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'Harvard Halogen Instrument'
+                             },
+                             {
+                               'id' => 'HHH',
+                               'type' => undef,
+                               'url' => '/instrument/HHH',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'Harvard Harriot Hygrometer'
+                             },
+                             {
+                               'id' => 'HOx',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/HOx',
+                               'title' => 'Harvard Hydroxyl Experiment',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'ICOS',
+                               'url' => '/instrument/ICOS',
+                               'type' => 'Laser absorption',
+                               'title' => 'Harvard Integrated Cavity Output Spectroscopy',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'title' => "Harvard Lyman-\x{3b1} Photofragment Fluorescence Hygrometer",
+                               'id' => 'HWV',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/HWV'
+                             },
+                             {
+                               'title' => 'Harvard Total Water',
+                               'aircraft' => [
+                                               'WB-57',
+                                               'ER-2'
+                                             ],
+                               'url' => '/instrument/HTW',
+                               'type' => 'Fluorescence',
+                               'id' => 'HTW'
+                             },
+                             {
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/HUPCRS',
+                               'id' => 'HUPCRS',
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ],
+                               'title' => 'Harvard University Picarro Cavity Ring Down Spectrometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Hawaii Group for Environmental Aerosol Research',
+                               'id' => 'HIGEAR',
+                               'url' => '/instrument/HIGEAR',
+                               'type' => 'CN counter'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ],
+                               'title' => 'Hawkeye',
+                               'id' => 'Hawkeye',
+                               'url' => '/instrument/Hawkeye',
+                               'type' => 'Particle imager'
+                             },
+                             {
+                               'type' => undef,
+                               'url' => '/instrument/HDVIS',
+                               'id' => 'HDVIS',
+                               'aircraft' => [],
+                               'title' => 'HDVIS'
+                             },
+                             {
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/HARP',
+                               'id' => 'HARP',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'HIAPER Airborne Radiation Package'
+                             },
+                             {
+                               'title' => 'High Altitude Imaging Wind and Rain Airborne Profiler',
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ],
+                               'id' => 'HIWRAP',
+                               'type' => 'Radar',
+                               'url' => '/instrument/HIWRAP'
+                             },
+                             {
+                               'title' => 'High Altitude Monolithic Microwave integrated Circuit (MMIC) Sounding Radiometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk'
+                                             ],
+                               'type' => 'Microwave Radiometer',
+                               'url' => '/instrument/HAMSR',
+                               'id' => 'HAMSR'
+                             },
+                             {
+                               'id' => 'HAMSR',
+                               'url' => '/instrument/HAMSR_0',
+                               'type' => 'Microwave Radiometer',
+                               'title' => 'High Altitude Monolithic Microwave Integrated Circuit Sounding Radiometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/HFRS',
+                               'type' => 'Camera',
+                               'id' => 'HFRS',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'High Frame Rate Slit-less Spectrograph'
+                             },
+                             {
+                               'id' => 'HSRL',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/HSRL',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'DC-8'
+                                             ],
+                               'title' => 'High Spectral Resolution Lidar'
+                             },
+                             {
+                               'id' => 'HVPS',
+                               'url' => '/instrument/HVPS',
+                               'type' => 'Particle imager',
+                               'aircraft' => [
+                                               'Citation',
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'High Volume Precipitation Spectrometer'
+                             },
+                             {
+                               'id' => 'HOx',
+                               'type' => undef,
+                               'url' => '/instrument/HOx_0',
+                               'title' => 'High-altitude OH Experiment',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'id' => 'Harvard CO2',
+                               'url' => '/instrument/Harvard%20CO2',
+                               'type' => 'Gas chromatography',
+                               'title' => 'High-Sensitivity Fast-Response CO2 Analyzer',
+                               'aircraft' => [
+                                               'Balloon',
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8'
+                                             ],
+                               'title' => 'HOx Chemical Ionization Mass Spectrometer',
+                               'type' => 'CIMS',
+                               'url' => '/instrument/HOxCIMS',
+                               'id' => 'HOxCIMS'
+                             },
+                             {
+                               'title' => 'HR-732 Aerial Cameras',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'id' => 'HR-732',
+                               'type' => 'Camera',
+                               'url' => '/instrument/HR-732'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Hurricane Imaging Radiometer',
+                               'id' => 'HIRAD',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/HIRAD'
+                             },
+                             {
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/HyMap',
+                               'id' => 'HyMap',
+                               'aircraft' => [
+                                               'Cessna 402B',
+                                               'WB-57'
+                                             ],
+                               'title' => 'HyMap'
+                             },
+                             {
+                               'id' => 'HyTES',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/HyTES',
+                               'title' => 'Hyperspectral Thermal Emission Spectrometer',
+                               'aircraft' => [
+                                               'Twin Otter'
+                                             ]
+                             },
+                             {
+                               'id' => 'ISAF',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/ISAF',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'In Situ Airborne Formaldehyde'
+                             },
+                             {
+                               'title' => 'In-Situ Measurements of Aerosol Optical Properties',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'AOP',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/AOP'
+                             },
+                             {
+                               'id' => 'INFLAME',
+                               'url' => '/instrument/INFLAME',
+                               'type' => 'Interferometer',
+                               'aircraft' => [
+                                               'Learjet 35'
+                                             ],
+                               'title' => 'In-situ Net Flux within the Atmosphere of the Earth'
+                             },
+                             {
+                               'title' => 'In-Situ Ozone',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'type' => undef,
+                               'url' => '/instrument/In-Situ%20Ozone',
+                               'id' => ''
+                             },
+                             {
+                               'title' => 'Intensified All-sky Camera',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'type' => 'Camera',
+                               'url' => '/instrument/ALLSKY',
+                               'id' => 'ALLSKY'
+                             },
+                             {
+                               'id' => 'INT1',
+                               'url' => '/instrument/INT1',
+                               'type' => 'Camera',
+                               'title' => 'Intensified Camera 1',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/INT2',
+                               'type' => 'Camera',
+                               'id' => 'INT2',
+                               'title' => 'Intensified Camera 2',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'id' => 'NUV',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/NUV',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Intensified High Definition TV Near-UV Spectrograph'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Intensified High Frame Rate Imager',
+                               'type' => 'Camera',
+                               'url' => '/instrument/IHFRI',
+                               'id' => 'IHFRI'
+                             },
+                             {
+                               'id' => 'IRIS II',
+                               'type' => 'Camera',
+                               'url' => '/instrument/IRIS%20II',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'IRIS II Panoramic Camera'
+                             },
+                             {
+                               'url' => '/instrument/IRIS',
+                               'type' => 'Laser absorption',
+                               'id' => 'IRIS',
+                               'aircraft' => [
+                                               'M-55',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Isotope Ratio Infrared Spectrometer'
+                             },
+                             {
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/J%28NO2%29%20Radiometer',
+                               'id' => '',
+                               'title' => 'J(NO2) Radiometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'id' => 'JLH',
+                               'url' => '/instrument/JLH',
+                               'type' => 'Spectrometer (in situ)',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'title' => 'JPL Laser Hygrometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Balloon',
+                                               'DC-8'
+                                             ],
+                               'title' => 'JPL Mark IV Balloon Interferometer',
+                               'id' => 'MkIV',
+                               'url' => '/instrument/MkIV',
+                               'type' => 'Interferometer'
+                             },
+                             {
+                               'id' => '',
+                               'type' => 'Radar',
+                               'url' => '/instrument/Ku-band%20Radar%20Altimeter',
+                               'title' => 'Ku-band Radar Altimeter',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'Twin Otter'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'L-Band Interference Surveyor/Analyzer',
+                               'id' => 'LISA',
+                               'url' => '/instrument/LISA',
+                               'type' => undef
+                             },
+                             {
+                               'id' => 'LARGE',
+                               'url' => '/instrument/LARGE',
+                               'type' => 'CN counter',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'C-130 Hercules'
+                                             ],
+                               'title' => 'Langley Aerosol Research Group Experiment'
+                             },
+                             {
+                               'id' => 'FASTOZ',
+                               'url' => '/instrument/FASTOZ',
+                               'type' => 'Chemiluminescence',
+                               'title' => 'Langley In Situ Fast-Response Ozone Measurements',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'title' => 'Large Area Collectors',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'type' => undef,
+                               'url' => '/instrument/LAC',
+                               'id' => 'LAC'
+                             },
+                             {
+                               'id' => '',
+                               'url' => '/instrument/Large%20Pixel%20Format%20CCD%20Camera',
+                               'type' => 'Camera',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Large Pixel Format CCD Camera'
+                             },
+                             {
+                               'title' => 'Laser Vegetation Imaging Sensor',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'C-130 Hercules',
+                                               'Cessna 402B',
+                                               'Citation',
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'C-130 Hercules'
+                                             ],
+                               'id' => 'LVIS',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/LVIS'
+                             },
+                             {
+                               'title' => 'Leica RC-30 metric camera',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'url' => '/instrument/RC-30_0',
+                               'type' => 'Camera',
+                               'id' => 'RC-30'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Leonardo Airborne Simulator',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/LAS',
+                               'id' => 'LAS'
+                             },
+                             {
+                               'title' => 'Lidar Atmosphere Sensing Experiment',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'type' => 'Lidar',
+                               'url' => '/instrument/LASE_0',
+                               'id' => 'LASE'
+                             },
+                             {
+                               'id' => 'LASE',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/LASE',
+                               'aircraft' => [
+                                               'P-3 Orion',
+                                               'DC-8'
+                                             ],
+                               'title' => 'Lidar Atmospheric Sensing Experiment'
+                             },
+                             {
+                               'title' => 'Lightning Instrument Project',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk'
+                                             ],
+                               'id' => 'LIP',
+                               'type' => undef,
+                               'url' => '/instrument/LIP'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Balloon'
+                                             ],
+                               'title' => 'Lightweight Balloon Interferometer',
+                               'id' => 'LWBI',
+                               'type' => 'Interferometer',
+                               'url' => '/instrument/LWBI'
+                             },
+                             {
+                               'id' => '',
+                               'type' => undef,
+                               'url' => '/instrument/Lyman%20Alpha-Hygrometer',
+                               'title' => 'Lyman Alpha-Hygrometer',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'id' => 'MGRS',
+                               'url' => '/instrument/MGRS',
+                               'type' => undef,
+                               'title' => 'MACRES Ground Receiving Station (MGRS)',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'title' => 'Marshall Airborne Polarimetric Imaging Radiometer',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'type' => 'Microwave Radiometer',
+                               'url' => '/instrument/MAPIR',
+                               'id' => 'MAPIR'
+                             },
+                             {
+                               'type' => 'Sounder',
+                               'url' => '/instrument/MOPITT-A',
+                               'id' => 'MOPITT-A',
+                               'title' => 'Measurement of Pollution in the Troposphere-Aircraft',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'title' => 'Measurements of Atmospheric Carbon Dioxide Over Northwestern North America',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'url' => '/instrument/MACDONNA',
+                               'type' => 'Gas chromatography',
+                               'id' => 'MACDONNA'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Alpha Jet',
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Meteorological Measurement System',
+                               'type' => undef,
+                               'url' => '/instrument/MMS',
+                               'id' => 'MMS'
+                             },
+                             {
+                               'id' => 'NOAA CH4',
+                               'url' => '/instrument/NOAA%20CH4',
+                               'type' => 'Spectrometer (in situ)',
+                               'title' => 'Methane Near IR Tunable Diode Laser Absorption Spectrometer',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/Microspectrometer',
+                               'type' => undef,
+                               'id' => '',
+                               'title' => 'Microspectrometer',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'id' => 'MTP',
+                               'url' => '/instrument/MTP',
+                               'type' => 'Microwave Radiometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'L-188C',
+                                               'M-55',
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Microwave Temperature Profiler'
+                             },
+                             {
+                               'id' => 'MIR',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/MIR',
+                               'title' => 'Millimeter Imaging Radiometer',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'title' => 'mini-DOAS',
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ],
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/Mini-DOAS',
+                               'id' => 'mini-DOAS'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Miniature Echelle Spectrograph',
+                               'id' => 'Echelle',
+                               'url' => '/instrument/Echelle',
+                               'type' => 'Spectrometer (in situ)'
+                             },
+                             {
+                               'type' => 'Camera',
+                               'url' => '/instrument/MVIS',
+                               'id' => 'MVIS',
+                               'title' => 'Miniature Video Imaging System',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'title' => 'MODIS Airborne Simulator',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/MAS',
+                               'id' => 'MAS'
+                             },
+                             {
+                               'url' => '/instrument/MASTER',
+                               'type' => 'Spectrometer',
+                               'id' => 'MASTER',
+                               'title' => 'MODIS/ASTER Airborne Simulator',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'Caravan',
+                                               'Cessna 402B',
+                                               'DC-8',
+                                               'ER-2',
+                                               'J-31',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'title' => 'Multi-functional Fiber Laser Lidar',
+                               'aircraft' => [
+                                               'B-200 (UC-12B) - LARC'
+                                             ],
+                               'type' => 'Lidar',
+                               'url' => '/instrument/MFLL',
+                               'id' => 'MFLL'
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Multi-kilohertz Microlaser Altimeter',
+                               'type' => 'Camera',
+                               'url' => '/instrument/MMLA',
+                               'id' => 'MMLA'
+                             },
+                             {
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'Multi-sample Aerosol Collection System',
+                               'url' => '/instrument/MACS',
+                               'type' => 'Counterflow virtual impactor',
+                               'id' => 'MACS'
+                             },
+                             {
+                               'title' => 'Multicenter Airborne Coherent Atmospheric Wind Sensor',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'url' => '/instrument/MACAWS',
+                               'type' => 'Lidar',
+                               'id' => 'MACAWS'
+                             },
+                             {
+                               'type' => 'Radar',
+                               'url' => '/instrument/MCoRDS',
+                               'id' => 'MCoRDS',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'Twin Otter'
+                                             ],
+                               'title' => 'Multichannel Coherent Radar Depth Sounder'
+                             },
+                             {
+                               'id' => 'ClO and BrO',
+                               'url' => '/instrument/C10%20and%20BrO',
+                               'type' => undef,
+                               'title' => 'Multiple Axis Resonance Fluorescence Chemical Conversion Detector for ClO and BrO',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'title' => 'Multiple-Angle Aerosol Spectrometer Probe',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'id' => 'MASP',
+                               'url' => '/instrument/MASP',
+                               'type' => 'Spectrometer (in situ)'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Multispectral Atmospheric Mapping Sensor',
+                               'id' => 'MAMS',
+                               'type' => 'Photometer',
+                               'url' => '/instrument/MAMS'
+                             },
+                             {
+                               'aircraft' => [
+                                               'J-31'
+                                             ],
+                               'title' => 'Navigation Data System and Met Sensors',
+                               'id' => 'NavMet',
+                               'url' => '/instrument/NavMet',
+                               'type' => 'Navigation recorder'
+                             },
+                             {
+                               'id' => 'NO-NO2',
+                               'type' => 'Chemiluminescence',
+                               'url' => '/instrument/NO-NO2',
+                               'title' => 'NCAR NO-NO2',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ]
+                             },
+                             {
+                               'title' => 'NCAR NOxyO3',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'id' => 'NOxyO3',
+                               'url' => '/instrument/NOxyO3',
+                               'type' => 'Chemiluminescence'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Nevzorov Liquid Water Content (LWC) and Total Water Content (TWC) Probe',
+                               'id' => 'Nevzorov',
+                               'url' => '/instrument/Nevzorov',
+                               'type' => undef
+                             },
+                             {
+                               'id' => 'AVIRISng',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/AVIRISng',
+                               'title' => 'Next-Generation Airborne Visible/Infrared Imaging Spectrometer',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'Proteus',
+                                               'Twin Otter',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'NO and NOy Chemiluminescence Instrument',
+                               'url' => '/instrument/NO/NOy',
+                               'type' => 'Chemiluminescence',
+                               'id' => 'NO/NOy'
+                             },
+                             {
+                               'id' => 'NOAA TW',
+                               'url' => '/instrument/NOAA%20TW',
+                               'type' => undef,
+                               'title' => 'NOAA Lyman-Alpha Total Water Hygrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'type' => 'Chemiluminescence',
+                               'url' => '/instrument/NOyO3',
+                               'id' => 'NOyO3',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'NOAA Nitrogen Oxides and Ozone'
+                             },
+                             {
+                               'type' => 'Chemiluminescence',
+                               'url' => '/instrument/NOAA%20NOy',
+                               'id' => 'NOAA NOy',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2'
+                                             ],
+                               'title' => 'NOAA NOy Instrument'
+                             },
+                             {
+                               'id' => 'NOAA PT',
+                               'type' => undef,
+                               'url' => '/instrument/NOAA%20PT',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'NOAA Pressure and Temperature'
+                             },
+                             {
+                               'title' => 'NOAA Water',
+                               'aircraft' => [
+                                               'Global Hawk'
+                                             ],
+                               'id' => 'NW',
+                               'url' => '/instrument/NW',
+                               'type' => 'CIMS'
+                             },
+                             {
+                               'title' => 'Non-dispersed Infrared Airborne CO2 Detector',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'id' => 'NIRAD',
+                               'url' => '/instrument/NIRAD',
+                               'type' => 'Spectrometer (in situ)'
+                             },
+                             {
+                               'id' => 'NAST-I',
+                               'type' => 'Interferometer',
+                               'url' => '/instrument/NAST-I',
+                               'title' => 'NPOESS Airborne Sounder Testbed - Interferometer',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'Proteus',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2',
+                                               'Proteus',
+                                               'WB-57'
+                                             ],
+                               'title' => 'NPOESS Airborne Sounder Testbed - Microwave',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/NAST-M',
+                               'id' => 'NAST-M'
+                             },
+                             {
+                               'id' => 'NMASS',
+                               'url' => '/instrument/NMASS',
+                               'type' => 'CN counter',
+                               'title' => 'Nuclei-Mode Aerosol Size Spectrometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'title' => 'O3 Photometer - UAS (NOAA)',
+                               'url' => '/instrument/O3%20Lite%20%28NOAA%29',
+                               'type' => 'Photometer',
+                               'id' => 'UAS-O3'
+                             },
+                             {
+                               'title' => 'O3 Photometer Classic (NOAA)',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ],
+                               'url' => '/instrument/O3%20Classic%20%28NOAA%29',
+                               'type' => 'Photometer',
+                               'id' => 'O3 Classic (NOAA)'
+                             },
+                             {
+                               'title' => 'Ozonesondes (NOAA)',
+                               'aircraft' => [],
+                               'url' => '/instrument/Ozonesondes%20%28NOAA%29',
+                               'type' => undef,
+                               'id' => 'Ozonesondes (NOAA)'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'PAN and Trace Hydrohalocarbon ExpeRiment',
+                               'type' => 'Gas chromatography',
+                               'url' => '/instrument/PANTHER',
+                               'id' => 'PANTHER'
+                             },
+                             {
+                               'id' => 'PAN-CIGAR',
+                               'type' => 'CIMS',
+                               'url' => '/instrument/PAN-CIGAR',
+                               'title' => 'PAN CIMS Instrument by Georgia Tech and NCAR',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Particle Analysis By Laser Mass Spectrometry',
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/PALMS',
+                               'id' => 'PALMS'
+                             },
+                             {
+                               'id' => 'PILS',
+                               'url' => '/instrument/PILS',
+                               'type' => undef,
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Particle into liquid sampler'
+                             },
+                             {
+                               'title' => 'Particle Into Liquid Sampler',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8'
+                                             ],
+                               'url' => '/instrument/PILS_0',
+                               'type' => 'Ion Chromatography',
+                               'id' => 'PILS'
+                             },
+                             {
+                               'url' => '/instrument/PALS',
+                               'type' => 'Radar',
+                               'id' => 'PALS',
+                               'title' => 'Passive Active L- and S-band Sensor',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'P-3 Orion',
+                                               'Twin Otter'
+                                             ]
+                             },
+                             {
+                               'id' => 'PARIS',
+                               'url' => '/instrument/PARIS',
+                               'type' => 'Radar',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Pathfinder Advanced Radar Ice Sounder'
+                             },
+                             {
+                               'title' => 'Peroxide Chemical Ionization Mass Spectrometer',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'id' => 'PCIMS',
+                               'type' => 'CIMS',
+                               'url' => '/instrument/PCIMS'
+                             },
+                             {
+                               'url' => '/instrument/PANAK',
+                               'type' => 'Gas chromatography',
+                               'id' => 'PANAK',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'PeroxyAcetylNitrate, Aldehydes and Ketones'
+                             },
+                             {
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Picarro G1301-c Methane/Carbon Dioxide Analyzer',
+                               'url' => '/instrument/Picarro%20Ring%20Down%20Cavity%20Spectrometer',
+                               'type' => 'Spectrometer (in situ)',
+                               'id' => 'Picarro'
+                             },
+                             {
+                               'id' => 'PolSCAT',
+                               'url' => '/instrument/PolSCAT',
+                               'type' => 'Radar',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'Twin Otter'
+                                             ],
+                               'title' => 'Polarimetric Ku-Band Scatterometer'
+                             },
+                             {
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/PSR',
+                               'id' => 'PSR',
+                               'title' => 'Polarimetric Scanning Radiometer',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'P-3 Orion',
+                                               'Proteus',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'P-3 Orion',
+                                               'Proteus',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Polarimetric Scanning Radiometer - C/X Band',
+                               'id' => 'PSR/CX',
+                               'url' => '/instrument/PSR/CX',
+                               'type' => 'Radiometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'P-3 Orion',
+                                               'Proteus',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Polarimetric Scanning Radiometer - Original Scanhead',
+                               'id' => 'PSR/A',
+                               'url' => '/instrument/PSR/A',
+                               'type' => 'Radiometer'
+                             },
+                             {
+                               'id' => 'PM-GFCR',
+                               'url' => '/instrument/PM-GFCR',
+                               'type' => 'Radiometer',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Polarization Modulated Gas Filter Correlation Radiometer'
+                             },
+                             {
+                               'title' => 'Polarized Imaging Nephelometer',
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'DC-8'
+                                             ],
+                               'id' => 'PI-Neph',
+                               'type' => undef,
+                               'url' => '/instrument/PI-Neph'
+                             },
+                             {
+                               'aircraft' => [],
+                               'title' => 'Portable Remote Imaging Spectrometer',
+                               'id' => 'PRISM',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/PRISM'
+                             },
+                             {
+                               'title' => 'Precipitation Imaging Probe',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'PIP',
+                               'type' => 'Particle imager',
+                               'url' => '/instrument/PIP'
+                             },
+                             {
+                               'id' => 'PTR-MS',
+                               'url' => '/instrument/PTR-MS',
+                               'type' => 'Spectrometer (in situ)',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8'
+                                             ],
+                               'title' => 'Proton-Transfer-Reaction Mass Spectrometer'
+                             },
+                             {
+                               'id' => 'PHA',
+                               'url' => '/instrument/PHA',
+                               'type' => undef,
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Pulse Height Analyzer'
+                             },
+                             {
+                               'title' => 'Quadropole Mass Spectrometer',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'id' => 'QMS',
+                               'url' => '/instrument/QMS',
+                               'type' => undef
+                             },
+                             {
+                               'type' => 'Laser absorption',
+                               'url' => '/instrument/QCLS',
+                               'id' => 'QCLS',
+                               'title' => 'Quantum Cascade Laser System',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'type' => 'Counterflow virtual impactor',
+                               'url' => '/instrument/QCM/SAW',
+                               'id' => 'QCM/SAW',
+                               'title' => 'Quartz Crystal Microbalance/Surface Acoustic Wave',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ]
+                             },
+                             {
+                               'title' => 'Radar Synthetic Aperture Thinned Array Radiometer - Active',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'url' => '/instrument/RadSTAR-A',
+                               'type' => 'Radiometer',
+                               'id' => 'RadSTAR-A'
+                             },
+                             {
+                               'url' => '/instrument/RAMS',
+                               'type' => 'Radiometer',
+                               'id' => 'RAMS',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Radiometric Measurement System'
+                             },
+                             {
+                               'title' => 'Raman Airborne Spectroscopic Lidar',
+                               'aircraft' => [
+                                               'B200 - LARC'
+                                             ],
+                               'id' => 'RASL',
+                               'url' => '/instrument/RASL',
+                               'type' => 'Raman spectrometer'
+                             },
+                             {
+                               'title' => 'RC-10 Mapping Cameras',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'url' => '/instrument/RC-10',
+                               'type' => 'Camera',
+                               'id' => 'RC-10'
+                             },
+                             {
+                               'url' => '/instrument/RC-30',
+                               'type' => 'Camera',
+                               'id' => 'RC-30',
+                               'aircraft' => [
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'title' => 'RC-30 Camera'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Reactive Nitrogen',
+                               'type' => undef,
+                               'url' => '/instrument/Reactive%20Nitrogen',
+                               'id' => ''
+                             },
+                             {
+                               'type' => 'Navigation recorder',
+                               'url' => '/instrument/REVEAL',
+                               'id' => 'REVEAL',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'P-3 Orion',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Research Environment for Vehicle-Embedded Analysis on Linux'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Research Scanning Polarimeter',
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/RSP',
+                               'id' => 'RSP'
+                             },
+                             {
+                               'title' => 'Rosemount Icing Detector',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'type' => undef,
+                               'url' => '/instrument/RICE',
+                               'id' => 'RICE'
+                             },
+                             {
+                               'id' => 'PHOT',
+                               'url' => '/instrument/PHOT',
+                               'type' => 'Photometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Sandia National Laboratory 2-channel Radiometer'
+                             },
+                             {
+                               'type' => 'Spectrometer (in situ)',
+                               'url' => '/instrument/SAFS',
+                               'id' => 'SAFS',
+                               'title' => 'Scanning Actinic Flux Spectroradiometers',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Scanning High-Resolution Interferometer Sounder',
+                               'id' => 'S-HIS',
+                               'url' => '/instrument/S-HIS',
+                               'type' => 'Interferometer'
+                             },
+                             {
+                               'title' => 'Sea Ice Thickness Penetrating Radar Instrument',
+                               'aircraft' => [],
+                               'url' => '/instrument/SITPRI',
+                               'type' => 'Radar',
+                               'id' => 'SITPRI'
+                             },
+                             {
+                               'aircraft' => [
+                                               'B200 - LARC',
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Sea Surface Wind Speed',
+                               'id' => 'Side Acculation GPS',
+                               'type' => 'Sounder',
+                               'url' => '/instrument/Side%20Acculation%20GPS'
+                             },
+                             {
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Single Event Upset',
+                               'id' => 'SEU',
+                               'url' => '/instrument/SEU',
+                               'type' => undef
+                             },
+                             {
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Single Particle Soot Photometer (NOAA)',
+                               'id' => 'SP2',
+                               'type' => 'Photometer',
+                               'url' => '/instrument/SP2'
+                             },
+                             {
+                               'id' => 'SIMPL',
+                               'url' => '/instrument/SIMPL',
+                               'type' => 'Lidar',
+                               'title' => 'Slope Imaging Multi-polarization Photon-counting Lidar',
+                               'aircraft' => [
+                                               'Learjet 25',
+                                               'P-3 Orion',
+                                               'Twin Otter'
+                                             ]
+                             },
+                             {
+                               'title' => 'Small Ice Detector',
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'NSF G-V',
+                                               'WB-57'
+                                             ],
+                               'id' => 'SID',
+                               'type' => 'Particle imager',
+                               'url' => '/instrument/SID'
+                             },
+                             {
+                               'id' => 'SSFR',
+                               'url' => '/instrument/SSFR',
+                               'type' => 'Radiometer',
+                               'aircraft' => [
+                                               'Altair',
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'J-31',
+                                               'P-3 Orion',
+                                               'Twin Otter',
+                                               'C-130 Hercules'
+                                             ],
+                               'title' => 'Solar Spectral Flux Radiometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Soluble Acidic Gases and Aerosols',
+                               'id' => 'SAGA',
+                               'type' => 'Ion Chromatography',
+                               'url' => '/instrument/SAGA'
+                             },
+                             {
+                               'title' => 'Spectrometer for Sky-Scanning, Sun-Tracking Atmospheric Research',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'C-130 Hercules',
+                                               'P-3 Orion'
+                                             ],
+                               'type' => 'Spectrometer',
+                               'url' => '/instrument/4STAR',
+                               'id' => '4STAR'
+                             },
+                             {
+                               'title' => 'SPP-100',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'id' => 'SPP',
+                               'url' => '/instrument/SPP',
+                               'type' => 'Optical particle counter'
+                             },
+                             {
+                               'id' => 'SLS',
+                               'type' => 'Limb Sounder',
+                               'url' => '/instrument/SLS',
+                               'aircraft' => [
+                                               'Balloon',
+                                               'ER-2'
+                                             ],
+                               'title' => 'Submillimeter Limb Sounder'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Telescopic High Definition Television',
+                               'id' => 'THDTV',
+                               'type' => 'Camera',
+                               'url' => '/instrument/THDTV'
+                             },
+                             {
+                               'url' => '/instrument/TMS',
+                               'type' => 'Camera',
+                               'id' => 'TMS',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Thematic Mapper Simulator'
+                             },
+                             {
+                               'title' => 'Thermal-Dissociation Laser Induced Fluorescence',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/TD-LIF',
+                               'id' => 'TD-LIF'
+                             },
+                             {
+                               'id' => 'THOR',
+                               'type' => 'Lidar',
+                               'url' => '/instrument/THOR',
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Thickness from Offbeam Returns'
+                             },
+                             {
+                               'url' => '/instrument/3V-CPI',
+                               'type' => 'Particle imager',
+                               'id' => '3V-CPI',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Three-View Cloud Particle Imager'
+                             },
+                             {
+                               'url' => '/instrument/TEPC',
+                               'type' => undef,
+                               'id' => 'TEPC',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Tissue Equivalent Particle Counter'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Trace Organic Gas Analyzer',
+                               'type' => 'Gas chromatography',
+                               'url' => '/instrument/TOGA',
+                               'id' => 'TOGA'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Tropospheric Ozone and Tracers from Commercial Aircraft Platforms',
+                               'url' => '/instrument/TOTCAP',
+                               'type' => 'Laser absorption',
+                               'id' => 'TOTCAP'
+                             },
+                             {
+                               'type' => 'Lidar',
+                               'url' => '/instrument/TWiLiTE',
+                               'id' => 'TWiLiTE',
+                               'title' => 'Tropospheric Wind Lidar Technology Experiment',
+                               'aircraft' => [
+                                               'DC-8',
+                                               'ER-2',
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'Cessna 402B',
+                                               'Citation',
+                                               'DC-8',
+                                               'P-3 Orion',
+                                               'Twin Otter',
+                                               'Twin Otter (DOE)'
+                                             ],
+                               'title' => 'TSI 3563 Integrating Nephelometer',
+                               'id' => 'TSI Neph',
+                               'type' => undef,
+                               'url' => '/instrument/TSI%20Neph'
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Turbulent Air Motion Measurement System',
+                               'id' => 'TAMMS',
+                               'type' => 'Navigation recorder',
+                               'url' => '/instrument/TAMMS'
+                             },
+                             {
+                               'aircraft' => [
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Two-Dimensional Electronically Scanning Thinned-Array Radiometer',
+                               'id' => '2D-STAR',
+                               'url' => '/instrument/2D-STAR',
+                               'type' => 'Radiometer'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Altair',
+                                               'Global Hawk',
+                                               'DC-8'
+                                             ],
+                               'title' => 'UAS Chromatograph for Atmospheric Trace Species',
+                               'url' => '/instrument/UCATS',
+                               'type' => 'Gas chromatography',
+                               'id' => 'UCATS'
+                             },
+                             {
+                               'title' => 'Ultra High Sensitivity Aerosol Spectrometer',
+                               'aircraft' => [
+                                               'Global Hawk',
+                                               'NSF G-V'
+                                             ],
+                               'id' => 'UHSAS',
+                               'url' => '/instrument/UHSAS',
+                               'type' => 'Spectrometer (in situ)'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Ultrafine CN - LaRC',
+                               'type' => 'CN counter',
+                               'url' => '/instrument/Ultrafine%20CN%20-%20LaRC',
+                               'id' => ''
+                             },
+                             {
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/UNHMERC',
+                               'id' => 'UNHMERC',
+                               'title' => 'UNH Mercury',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'url' => '/instrument/UAVAWSP',
+                               'type' => undef,
+                               'id' => 'UAVAWSP',
+                               'aircraft' => [],
+                               'title' => 'Uninhabited Aerial Vehicle Atmo Water Sensor Package'
+                             },
+                             {
+                               'aircraft' => [
+                                               'G-III (C-20A) - Armstrong'
+                                             ],
+                               'title' => 'Uninhabited Aerial Vehicle Synthetic Aperture Radar',
+                               'id' => 'UAVSAR',
+                               'type' => 'Radar',
+                               'url' => '/instrument/UAVSAR'
+                             },
+                             {
+                               'aircraft' => [
+                                               'Global Hawk',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Unmanned Aerial System Laser Hygrometer',
+                               'url' => '/instrument/ULH',
+                               'type' => undef,
+                               'id' => 'ULH'
+                             },
+                             {
+                               'title' => 'URI Peroxides and Formaldehyde Instrument',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'POPS',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/POPS'
+                             },
+                             {
+                               'title' => 'Utah State Near-Infrared Spectrometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'url' => '/instrument/NIRSPEC',
+                               'type' => 'Spectrometer (in situ)',
+                               'id' => 'NIRSPEC'
+                             },
+                             {
+                               'id' => 'AIRGLOW',
+                               'url' => '/instrument/AIRGLOW',
+                               'type' => 'Camera',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'title' => 'Utah State University Airglow Study'
+                             },
+                             {
+                               'title' => 'UV DIfferential Absorption Ozone and Aerosol Lidar',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ],
+                               'id' => 'DIAL',
+                               'url' => '/instrument/DIAL',
+                               'type' => 'Lidar'
+                             },
+                             {
+                               'id' => 'VUV-CO',
+                               'type' => 'Fluorescence',
+                               'url' => '/instrument/VUV-CO',
+                               'title' => 'Vacuum UV Resonance Fluorescence CO Instrument',
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Vertical Cavity Surface Emitting Laser Hygrometer',
+                               'id' => 'VCSEL',
+                               'url' => '/instrument/VCSEL',
+                               'type' => undef
+                             },
+                             {
+                               'id' => 'VIPS',
+                               'type' => 'Particle imager',
+                               'url' => '/instrument/VIPS',
+                               'title' => 'Video Ice Particle Sampler',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ]
+                             },
+                             {
+                               'id' => 'VIS',
+                               'type' => 'Camera',
+                               'url' => '/instrument/VIS',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'title' => 'Video Imaging System'
+                             },
+                             {
+                               'url' => '/instrument/Video%20Uplink',
+                               'type' => 'Camera',
+                               'id' => '',
+                               'title' => 'Video Uplink',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-3',
+                                               'Twin Otter'
+                                             ],
+                               'title' => 'Warm Ice Sounding Explorer',
+                               'id' => 'WISE',
+                               'url' => '/instrument/WISE',
+                               'type' => 'Sounder'
+                             },
+                             {
+                               'aircraft' => [
+                                               'NSF G-V'
+                                             ],
+                               'title' => 'Water-Based Condensation Nucleus Counter',
+                               'id' => 'WCN',
+                               'url' => '/instrument/WCN',
+                               'type' => 'CN counter'
+                             },
+                             {
+                               'id' => 'WAVE',
+                               'url' => '/instrument/WAVE',
+                               'type' => 'Camera',
+                               'aircraft' => [
+                                               'WB-57'
+                                             ],
+                               'title' => 'WB-57 Ascent Video Experiment'
+                             },
+                             {
+                               'aircraft' => [
+                                               'C-130 Hercules',
+                                               'DC-8',
+                                               'ER-2',
+                                               'WB-57'
+                                             ],
+                               'title' => 'Whole Air Sampler',
+                               'id' => 'WAS (NCAR)',
+                               'type' => 'Whole Air Sampling',
+                               'url' => '/instrument/WAS%20%28NCAR%29'
+                             },
+                             {
+                               'aircraft' => [
+                                               'DC-8',
+                                               'P-3 Orion'
+                                             ],
+                               'title' => 'Whole Air Sampling',
+                               'url' => '/instrument/WAS%20%28UCI%29',
+                               'type' => 'Whole Air Sampling',
+                               'id' => 'WAS (UCI)'
+                             },
+                             {
+                               'id' => 'WINDRAD',
+                               'type' => 'Microwave Radiometer',
+                               'url' => '/instrument/WINDRAD',
+                               'title' => 'Wind Radiometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             },
+                             {
+                               'title' => 'Wing Tip Air Particulate Sampler',
+                               'aircraft' => [
+                                               'ER-2'
+                                             ],
+                               'id' => 'APS',
+                               'url' => '/instrument/APS',
+                               'type' => undef
+                             },
+                             {
+                               'id' => 'LRR-X',
+                               'type' => 'Radiometer',
+                               'url' => '/instrument/LRR-X',
+                               'title' => 'X-Band Lightweight Rainfall Radiometer',
+                               'aircraft' => [
+                                               'DC-8'
+                                             ]
+                             }
+                           ],
+          'aircraft' => [
+                          {
+                            'url' => '/aircraft/DC-8',
+                            'funder' => 'ASP Supported Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DC8-546x123.gif?itok=kPsuAmTz',
+                            'name' => 'DC-8'
+                          },
+                          {
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/ER2_546x123.jpg?itok=nHaX8yA5',
+                            'name' => 'ER-2',
+                            'funder' => 'ASP Supported Aircraft',
+                            'url' => '/aircraft/ER-2'
+                          },
+                          {
+                            'url' => '/aircraft/G-III_C-20A_-_Armstrong',
+                            'funder' => 'ASP Supported Aircraft',
+                            'name' => 'G-III (C-20A) - Armstrong',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G3-546x123.jpg?itok=ogiA0YcK'
+                          },
+                          {
+                            'funder' => 'ASP Supported Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/NA992_0.jpg?itok=bQuCSVJW',
+                            'name' => 'G-III - JSC',
+                            'url' => '/aircraft/G-III_-_JSC'
+                          },
+                          {
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GH_546x123.jpg?itok=sBOn0BrN',
+                            'name' => 'Global Hawk',
+                            'funder' => 'ASP Supported Aircraft',
+                            'url' => '/aircraft/Global_Hawk'
+                          },
+                          {
+                            'url' => '/aircraft/P-3_Orion',
+                            'name' => 'P-3 Orion',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/P3-546x123.jpg?itok=xPmz10OL',
+                            'funder' => 'ASP Supported Aircraft'
+                          },
+                          {
+                            'name' => 'B-200 (UC-12B) - LARC',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20UC-12B%20cropped.jpg?itok=h7wuANty',
+                            'funder' => 'Other NASA Aircraft',
+                            'url' => '/aircraft/B-200_UC-12B_-_LARC'
+                          },
+                          {
+                            'url' => '/aircraft/B-200_King_Air_-_WFF',
+                            'funder' => 'Other NASA Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/IMG_4614.1.jpg?itok=Mst5Bxpv',
+                            'name' => 'B-200 King Air - WFF'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'B200 - AFRC',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DFRC%20B200.jpg?itok=gX5GHgdC',
+                            'url' => '/aircraft/B200_-_AFRC'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/B200%20LARC.jpg?itok=1SaC8hoB',
+                            'name' => 'B200 - LARC',
+                            'url' => '/aircraft/B200_-_LARC'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'C-130 Hercules',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_09451.jpg?itok=Vtm8jZHu',
+                            'url' => '/aircraft/C-130_Hercules'
+                          },
+                          {
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0234.jpg?itok=v1YEmxQX',
+                            'name' => 'C-23 Sherpa',
+                            'funder' => 'Other NASA Aircraft',
+                            'url' => '/aircraft/C-23_Sherpa'
+                          },
+                          {
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/8014867712_c8ebaf6df3_c.jpg?itok=6J8opOwD',
+                            'name' => 'C-9B',
+                            'funder' => 'Other NASA Aircraft',
+                            'url' => '/aircraft/C-9B'
+                          },
+                          {
+                            'url' => '/aircraft/Cessna_206H',
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'Cessna 206H',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20Cessna%20206H%20cropped.jpg?itok=WCQKn_Z1'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'Dragon Eye',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/dragoneye_web_bg.jpg?itok=aze7yOEp',
+                            'url' => '/aircraft/Dragon_Eye'
+                          },
+                          {
+                            'name' => 'HU-25C Guardian',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/hu25c.jpg?itok=ZGEvYpWj',
+                            'funder' => 'Other NASA Aircraft',
+                            'url' => '/aircraft/HU-25C_Guardian'
+                          },
+                          {
+                            'url' => '/aircraft/Ikhana',
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'Ikhana',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/predator-546x123.jpg?itok=CUHAZysY'
+                          },
+                          {
+                            'url' => '/aircraft/Learjet_25',
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'Learjet 25',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/learjet-546x123.jpg?itok=XjQ8F-HE'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'S-3B',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/s3b.jpg?itok=nHdJYLGl',
+                            'url' => '/aircraft/S-3B'
+                          },
+                          {
+                            'url' => '/aircraft/SIERRA',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/SIERRA_ASP_home.jpg?itok=aylIxrqN',
+                            'name' => 'SIERRA',
+                            'funder' => 'Other NASA Aircraft'
+                          },
+                          {
+                            'url' => '/aircraft/T-34C',
+                            'name' => 'T-34C',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/t-34c-546x123.jpg?itok=pJCgujNu',
+                            'funder' => 'Other NASA Aircraft'
+                          },
+                          {
+                            'url' => '/aircraft/Twin_Otter_-_GRC',
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'Twin Otter - GRC',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GRC%20TO.jpg?itok=hubTxKNR'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0189.JPG?itok=z-5SsF1v',
+                            'name' => 'UH-1 Huey',
+                            'url' => '/aircraft/UH-1_Huey'
+                          },
+                          {
+                            'url' => '/aircraft/Viking-400',
+                            'name' => 'Viking-400',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/viking%20pic%20small.jpg?itok=VatPbAHA',
+                            'funder' => 'Other NASA Aircraft'
+                          },
+                          {
+                            'funder' => 'Other NASA Aircraft',
+                            'name' => 'WB-57',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/WB57_546x123.jpg?itok=ThJY6V2P',
+                            'url' => '/aircraft/WB-57'
+                          },
+                          {
+                            'url' => '/aircraft/XSCAV',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/xcav_1.jpg?itok=LbpbXjcJ',
+                            'name' => 'XSCAV',
+                            'funder' => 'Other NASA Aircraft'
+                          },
+                          {
+                            'url' => '/aircraft/B-200_-_DOE',
+                            'funder' => 'Other Federal Aircraft',
+                            'name' => 'B-200 - DOE',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Kingair-546x123.gif?itok=JWAF3ZSu'
+                          },
+                          {
+                            'funder' => 'Other Federal Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/CIRPAS%2520Twin%2520Otter.JPG?itok=4iwlrbgG',
+                            'name' => 'Twin Otter - CIRPAS',
+                            'url' => '/aircraft/Twin_Otter_-_CIRPAS'
+                          },
+                          {
+                            'url' => '/aircraft/Alpha_Jet',
+                            'name' => 'Alpha Jet',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Alpha%20Jet.jpg?itok=hWdK4VPF',
+                            'funder' => 'Commercial Aircraft'
+                          },
+                          {
+                            'url' => '/aircraft/BAT_4',
+                            'name' => 'BAT 4',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Bat4_4_cropped.jpg?itok=JI1ujWPK',
+                            'funder' => 'Commercial Aircraft'
+                          },
+                          {
+                            'funder' => 'Commercial Aircraft',
+                            'name' => 'Cessna Centurion (C210)',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Centurion.png?itok=LXgeAWbD',
+                            'url' => '/aircraft/Cessna_Centurion_C210'
+                          },
+                          {
+                            'url' => '/aircraft/Cessna_Citation_II',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Citation%20sunrise%20365cropped.jpg?itok=Pun7Bizy',
+                            'name' => 'Cessna Citation II',
+                            'funder' => 'Commercial Aircraft'
+                          },
+                          {
+                            'funder' => 'Commercial Aircraft',
+                            'name' => 'DataHawk/SDSS',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/data_hawks.jpg?itok=sZg0tPKy',
+                            'url' => '/aircraft/DataHawk_SDSS'
+                          },
+                          {
+                            'url' => '/aircraft/Extra_EA300',
+                            'funder' => 'Commercial Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Extra%20EA300.png?itok=GEcFijWf',
+                            'name' => 'Extra EA300'
+                          },
+                          {
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G1_commercial.jpg?itok=lTy1qHun',
+                            'name' => 'Gulfstream G-1',
+                            'funder' => 'Commercial Aircraft',
+                            'url' => '/aircraft/Gulfstream_G-1'
+                          },
+                          {
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Navajo.png?itok=dx034ohu',
+                            'name' => 'Piper Navajo',
+                            'funder' => 'Commercial Aircraft',
+                            'url' => '/aircraft/Piper_Navajo'
+                          },
+                          {
+                            'name' => 'Proteus',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/wingext21ad.jpg?itok=wn487XKj',
+                            'funder' => 'Commercial Aircraft',
+                            'url' => '/aircraft/Proteus'
+                          },
+                          {
+                            'url' => '/aircraft/Scan_Eagle',
+                            'funder' => 'Commercial Aircraft',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/se_0.jpg?itok=HAzOuBFZ',
+                            'name' => 'Scan Eagle'
+                          },
+                          {
+                            'url' => '/aircraft/Twin_Otter_International',
+                            'funder' => 'Commercial Aircraft',
+                            'name' => 'Twin Otter International',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/TwinOtter_0.gif?itok=yHcm9-2k'
+                          },
+                          {
+                            'url' => '/aircraft/Vision-II',
+                            'funder' => 'Commercial Aircraft',
+                            'name' => 'Vision-II',
+                            'thumbnail' => 'https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/visionII.jpg?itok=f10nOf-R'
+                          }
+                        ]
+        };
+

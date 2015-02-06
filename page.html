@@ -1,0 +1,610 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+ 
+<head profile="http://www.w3.org/1999/xhtml/vocab"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+ 
+  <title>Aircraft List | NASA Airborne Science Program</title> 
+  <style type="text/css" media="all">
+@import url("https://airbornescience.nasa.gov/modules/system/system.base.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/system/system.menus.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/system/system.messages.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/system/system.theme.css?nj97ew");
+</style>
+<style type="text/css" media="all">
+@import url("https://airbornescience.nasa.gov/modules/comment/comment.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/domain/domain_nav/domain_nav.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/custom/espodb/espodb.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/field/theme/field.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/node/node.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/search/search.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/modules/user/user.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/asset/css/assets.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/views/css/views.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/ckeditor/css/ckeditor.css?nj97ew");
+</style>
+<style type="text/css" media="all">
+@import url("https://airbornescience.nasa.gov/sites/all/modules/custom/calendar/calendar_multiday/calendar_multiday.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/ctools/css/ctools.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/modules/custom/date/date_popup/themes/datepicker.1.7.css?nj97ew");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.url-textfield{display:none !important;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("https://airbornescience.nasa.gov/sites/all/modules/custom/date/date_api/date.css?nj97ew");
+</style>
+<style type="text/css" media="all">
+@import url("https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/css/207071main_allpages.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/css/207072main_allmodules.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/css/207308main_allmodules_homepage.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/css/jquery.jscrollpane.css?nj97ew");
+@import url("https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/css/style.css?nj97ew");
+</style>
+ 
+  <script type="text/javascript" src="https://airbornescience.nasa.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://airbornescience.nasa.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://airbornescience.nasa.gov/misc/drupal.js?nj97ew"></script>
+<script type="text/javascript" src="https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/js/jquery.jscrollpane.js?nj97ew"></script>
+<script type="text/javascript" src="https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/js/script.js?nj97ew"></script>
+<script type="text/javascript" src="https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/js/jquery.hoverIntent.js?nj97ew"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nasa","theme_token":"Yp9Rrg153BtokqX6tz8Tpuo6b8SBO63L4tgqtIQ6sHI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/custom\/nasa\/js\/jquery.jscrollpane.js":1,"sites\/all\/themes\/custom\/nasa\/js\/script.js":1,"sites\/all\/themes\/custom\/nasa\/js\/jquery.hoverIntent.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"sites\/all\/modules\/custom\/espodb\/espodb.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/asset\/css\/assets.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/custom\/calendar\/calendar_multiday\/calendar_multiday.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/date\/date_popup\/themes\/datepicker.1.7.css":1,"0":1,"sites\/all\/modules\/custom\/date\/date_api\/date.css":1,"sites\/all\/themes\/custom\/nasa\/css\/207071main_allpages.css":1,"sites\/all\/themes\/custom\/nasa\/css\/207072main_allmodules.css":1,"sites\/all\/themes\/custom\/nasa\/css\/207308main_allmodules_homepage.css":1,"sites\/all\/themes\/custom\/nasa\/css\/jquery.jscrollpane.css":1,"sites\/all\/themes\/custom\/nasa\/css\/style.css":1}}});
+//--><!]]>
+</script>
+ 
+  <script id="_fed_an_js_tag" type="text/javascript" src="https://airbornescience.nasa.gov/sites/all/themes/custom/nasa/js/federated-analytics.all.min.js?agency=NASA&sub-agency=ARC&vcto=12"></script></head> 
+<body class="html not-front not-logged-in no-sidebars page-aircraft domain-airbornescience-nasa-gov" > 
+	<noscript>
+	<center><font size="3" color="red">This site requires that JavaScripts be 
+	enabled in your browser. For instructions, 
+	<a target="_blank" href="http://www.nasa.gov/home/How_to_enable_Javascript.html" class="navLnkRed">
+	click here</a></font></center></noscript>
+  <div class="skiplink"> 
+    <a href="#main-content"> Skip to main content</a> 
+  </div>
+
+   
+  
+<div id="page-wrapper"><div id="page" class="content_body">
+	<div class="top">
+		<div id="top_header" class="top_header">
+
+			<div id="header" class="header section clearfix">
+				<h1>
+					<a href="http://www.nasa.gov" class="nasa_logo">
+						<span class="hide">NASA - National Aeronautics and Space Administration</span>
+					</a>
+				</h1>
+				<div id="header_form">
+					  <div class="region region-header">
+    <div id="block-user-login" class="userMenublock block-user">
+	<div id='login_form_nodrop'>
+		<span id="login_links">
+			<span>› <a href="#" onclick="javascript:toggleLoginBox('show');">Log in to Airborne Science</a>
+			</span>
+			|
+			<span>› <a href="https://airbornescience.nasa.gov/user/register">Create New Account</a>
+			</span>
+		</span>
+	</div>
+	<div id="login_floater">
+		<div id="floatArrow" class="float_arrow_up"></div>
+		<div id='floatMessage' class="content normal_overlay_float">
+			<div id="floatMessageTop" class="floatType_bookmark_top"></div>
+			<div id="floatMessageInner" class="floatType_bookmark">
+				<span>
+    				<h5 id="mynasah5">Log in to Airborne Science</h5>
+					<a class="module_close icons_black icon_close" href="#" id="closelink" onclick="javascript:toggleLoginBox('hide');"></a>
+					<form action="/aircraft?destination=aircraft" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+ <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+ <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-ZiXyosIFZl4geeZqTfhpFM1__rWzbjEOTigE_xr74ZQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>					</span>
+			</div>
+			<div id="floatMessageBottom" class="floatType_bookmark_bottom"></div>
+		</div>
+	</div>
+</div>
+<div id="block-search-form" class="block block-search">
+<div class="content">
+    <form action="/aircraft" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline" id="search_form_nodrop">
+			<h2 class="element-invisible">Search form</h2>
+		<div class="form-item form-type-textfield form-item-search-block-form">
+ <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+ <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-T0eL6onq0f8qUrMx6B7difGoSZlbM4kjj0dvqNQ7BnU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div></div></form>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+  <div class="content">
+          <div id="main-nav"><div id="dropper_wrapper" class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+	<ul class="menu"><li class="first expanded menu-mlid-308"><a href="/" title="About the Airborne Science Program">Program</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-459"><a href="/program/current_activities" title="Link to the Current Activities Page">Current Activities</a></li>
+<li class="leaf menu-mlid-461"><a href="/program/news" title="Link to the News Page">News</a></li>
+<li class="leaf menu-mlid-1234"><a href="http://www.nserc.und.edu/sarp" title="Link to the SARP website." target="_blank">Student Airborne Research Program</a></li>
+<li class="leaf menu-mlid-460"><a href="/program/documents" title="Link to the Documents Page">Documents</a></li>
+<li class="leaf menu-mlid-987"><a href="http://blogs.nasa.gov/cm/blog/airborne_science" title="Link to ASP Blog" target="_blank">ASP Blog</a></li>
+<li class="leaf has-children menu-mlid-976"><a href="/program/poc/Airborne_Science_Program_at_NASA_Headquarters" title="Link to Points of Contact">Points of Contact</a></li>
+<li class="leaf menu-mlid-1100"><a href="/program/research-opportunities">Research Opportunities</a></li>
+<li class="leaf menu-mlid-1101"><a href="/program/related-links">Related Links</a></li>
+<li class="last leaf menu-mlid-1704"><a href="http://www.youtube.com/nserctv" target="_blank">Videos</a></li>
+</ul></div></li>
+<li class="expanded active-trail active menu-mlid-983"><a href="/aircraft" class="active-trail active">Platforms</a><div class="dropper"><ul class="menu"><li class="first leaf active-trail active menu-mlid-984"><a href="/aircraft" title="Link to the Platforms Page" class="active-trail active">All Platforms</a></li>
+<li class="leaf menu-mlid-1459"><a href="/platform/comparison" title="Link to the aircraft comparison page.">Aircraft Comparison</a></li>
+<li class="leaf menu-mlid-1705"><a href="http://www.youtube.com/watch?v=jwWxwKLxpig" title="">Core Aircraft Video</a></li>
+<li class="leaf menu-mlid-985"><a href="http://airbornescience.nasa.gov/tracker/" title="Link to the ASP Asset Tracker" target="_blank">Asset Tracker</a></li>
+<li class="leaf menu-mlid-986"><a href="http://airbornescience.nasa.gov/sofrs/" title="Link to the Flight Request System">Flight Request</a></li>
+<li class="leaf menu-mlid-1104"><a href="/aircraft_status" title="Current status for all ASP aircraft and instruments">Aircraft Current Status</a></li>
+<li class="leaf menu-mlid-1194"><a href="/aircraft_overview_cal" title="Overview of activities during next six months for all ASP aircraft">Aircraft Overview Schedule</a></li>
+<li class="leaf menu-mlid-1193"><a href="/aircraft_detailed_cal" title="Detailed month-by-month schedules for each ASP aircraft">Aircraft Detailed Schedule</a></li>
+<li class="leaf menu-mlid-1106"><a href="/aircraft_schedules">5 - Year Plan</a></li>
+<li class="leaf menu-mlid-11506"><a href="/nasaesa_overview_cal">NASA/ESA Calendar</a></li>
+<li class="last leaf menu-mlid-1455"><a href="/flight-reports" title="Link to Flight Reports Page">Flight Reports</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-307"><a href="/content/Airborne_Science_Instrumentation" title="Airborne Science Program Instruments">Instrumentation</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-363"><a href="/instrument/all" title="Browse a table listing all instruments available in the Airborne Science database.">All Instruments</a></li>
+<li class="leaf menu-mlid-1554"><a href="/instrument/facility">Facility Instruments</a></li>
+<li class="leaf menu-mlid-364"><a href="/instrument/aircraft/List" title="Browse instruments sorted based on the aircraft/platform on which they can make measurements">By Aircraft</a></li>
+<li class="leaf menu-mlid-366"><a href="/instrument/meas/List" title="Browse instruments sorted by their measurement products">By Measurement</a></li>
+<li class="leaf menu-mlid-365"><a href="/instrument/type/List" title="Browse instruments sorted according to instrument type">By Type</a></li>
+<li class="leaf menu-mlid-6178"><a href="http://airbornescience.nasa.gov/sites/default/files/documents/TRL%20Levels.pdf" target="_blank">Instrument TRL levels</a></li>
+<li class="last leaf menu-mlid-15380"><a href="/content/Engineering_Support_for_Hardware_and_Software">Engineering Support </a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-1883"><a href="/content/Mission_Tools">Mission Tools</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-1886"><a href="/content/ASP_Mission_Tool_Suite">ASP Mission Tool Suite</a></li>
+<li class="leaf menu-mlid-1885"><a href="http://airbornescience.nasa.gov/tracker/" title="Link to the ASP Asset Tracker" target="_blank">Aircraft Tracker Map</a></li>
+<li class="leaf menu-mlid-1887"><a href="http://airbornescience.nasa.gov/tracker3d/" target="_blank">Aircraft Tracker Earth</a></li>
+<li class="leaf menu-mlid-1888"><a href="http://mts.nasa.gov/" target="_blank">ASP Mission Tools</a></li>
+<li class="leaf menu-mlid-1882"><a href="/science-reports" title="Link to Science Reports Page">Science Reports</a></li>
+<li class="leaf menu-mlid-1991"><a href="http://acce.jpl.nasa.gov/ " target="_blank">ACCE</a></li>
+<li class="leaf menu-mlid-1992"><a href="https://c3.nasa.gov/nex/ " target="_blank">NEX</a></li>
+<li class="leaf menu-mlid-8326"><a href="http://airbornescience.jpl.nasa.gov/data-nasa/" target="_blank">Airborne Data Search</a></li>
+<li class="last leaf menu-mlid-8370"><a href="http://airbornescience.jpl.nasa.gov/visualization/portals-nasa/ " target="_blank">JPL Hurricane Tool</a></li>
+</ul></div></li>
+<li class="last leaf menu-mlid-480"><a href="http://airbornescience.nasa.gov/sofrs/" title="Link to the Flight Request System">Flight Request</a></li>
+</ul></div></div>
+      </div>  
+</div>
+  </div>
+				</div>
+				
+			</div> <!-- /.section, /#header -->
+			
+						
+		</div>
+	</div>
+	<div id="main-wrapper"><div id="main" class="clearfix">
+		<!--Start of Left Column -->
+		<div id="left" class="left_232">
+							<div id="sidebar-first-top" class="column sidebar"><div class="section">
+					  <div class="region region-sidebar-first-top">
+    <div id="block-menu-block-2" class="block block-menu-block">
+  <div class="content">
+          <div class="block block-menu-block section_nav_cap">
+        <div class="top_cap"></div>
+      	  <div class="section_nav">
+      	    <h2 class="h2_grey"></h2>
+            		
+		<ul class="menu"><li class="first expanded menu-mlid-308"><a href="/" title="About the Airborne Science Program">Program</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-459"><a href="/program/current_activities" title="Link to the Current Activities Page">Current Activities</a></li>
+<li class="leaf menu-mlid-461"><a href="/program/news" title="Link to the News Page">News</a></li>
+<li class="leaf menu-mlid-1234"><a href="http://www.nserc.und.edu/sarp" title="Link to the SARP website." target="_blank">Student Airborne Research Program</a></li>
+<li class="leaf menu-mlid-460"><a href="/program/documents" title="Link to the Documents Page">Documents</a></li>
+<li class="leaf menu-mlid-987"><a href="http://blogs.nasa.gov/cm/blog/airborne_science" title="Link to ASP Blog" target="_blank">ASP Blog</a></li>
+<li class="expanded menu-mlid-976"><a href="/program/poc/Airborne_Science_Program_at_NASA_Headquarters" title="Link to Points of Contact">Points of Contact</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-1038"><a href="/program/poc/Airborne_Science_Program_at_NASA_Headquarters" title="">NASA Headquarters</a></li>
+<li class="leaf menu-mlid-977"><a href="/program/poc/NASA_Ames_Research_Center">NASA Ames Research Center</a></li>
+<li class="leaf menu-mlid-978"><a href="/program/poc/NASA_Armstrong_Dryden_Flight_Research_Center">NASA Armstrong (Dryden) Flight Research Center</a></li>
+<li class="leaf menu-mlid-982"><a href="/program/poc/NASA_Glenn_Research_Center">NASA Glenn Research Center</a></li>
+<li class="leaf menu-mlid-979"><a href="/program/poc/NASA_Johnson_Space_Center">NASA Johnson Space Center</a></li>
+<li class="leaf menu-mlid-981"><a href="/program/poc/NASA_Langley_Research_Center">NASA Langley Research Center</a></li>
+<li class="last leaf menu-mlid-980"><a href="/program/poc/NASA_Wallops_Flight_Facility">NASA Wallops Flight Facility</a></li>
+</ul></div></li>
+<li class="leaf menu-mlid-1100"><a href="/program/research-opportunities">Research Opportunities</a></li>
+<li class="leaf menu-mlid-1101"><a href="/program/related-links">Related Links</a></li>
+<li class="last leaf menu-mlid-1704"><a href="http://www.youtube.com/nserctv" target="_blank">Videos</a></li>
+</ul></div></li>
+<li class="expanded active-trail active menu-mlid-983"><a href="/aircraft" class="active-trail active">Platforms</a><div class="dropper"><ul class="menu"><li class="first leaf active-trail active menu-mlid-984"><a href="/aircraft" title="Link to the Platforms Page" class="active-trail active">All Platforms</a></li>
+<li class="leaf menu-mlid-1459"><a href="/platform/comparison" title="Link to the aircraft comparison page.">Aircraft Comparison</a></li>
+<li class="leaf menu-mlid-1705"><a href="http://www.youtube.com/watch?v=jwWxwKLxpig" title="">Core Aircraft Video</a></li>
+<li class="leaf menu-mlid-985"><a href="http://airbornescience.nasa.gov/tracker/" title="Link to the ASP Asset Tracker" target="_blank">Asset Tracker</a></li>
+<li class="leaf menu-mlid-986"><a href="http://airbornescience.nasa.gov/sofrs/" title="Link to the Flight Request System">Flight Request</a></li>
+<li class="leaf menu-mlid-1104"><a href="/aircraft_status" title="Current status for all ASP aircraft and instruments">Aircraft Current Status</a></li>
+<li class="leaf menu-mlid-1194"><a href="/aircraft_overview_cal" title="Overview of activities during next six months for all ASP aircraft">Aircraft Overview Schedule</a></li>
+<li class="leaf menu-mlid-1193"><a href="/aircraft_detailed_cal" title="Detailed month-by-month schedules for each ASP aircraft">Aircraft Detailed Schedule</a></li>
+<li class="leaf menu-mlid-1106"><a href="/aircraft_schedules">5 - Year Plan</a></li>
+<li class="leaf menu-mlid-11506"><a href="/nasaesa_overview_cal">NASA/ESA Calendar</a></li>
+<li class="last leaf menu-mlid-1455"><a href="/flight-reports" title="Link to Flight Reports Page">Flight Reports</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-307"><a href="/content/Airborne_Science_Instrumentation" title="Airborne Science Program Instruments">Instrumentation</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-363"><a href="/instrument/all" title="Browse a table listing all instruments available in the Airborne Science database.">All Instruments</a></li>
+<li class="leaf menu-mlid-1554"><a href="/instrument/facility">Facility Instruments</a></li>
+<li class="leaf menu-mlid-364"><a href="/instrument/aircraft/List" title="Browse instruments sorted based on the aircraft/platform on which they can make measurements">By Aircraft</a></li>
+<li class="leaf menu-mlid-366"><a href="/instrument/meas/List" title="Browse instruments sorted by their measurement products">By Measurement</a></li>
+<li class="leaf menu-mlid-365"><a href="/instrument/type/List" title="Browse instruments sorted according to instrument type">By Type</a></li>
+<li class="leaf menu-mlid-6178"><a href="http://airbornescience.nasa.gov/sites/default/files/documents/TRL%20Levels.pdf" target="_blank">Instrument TRL levels</a></li>
+<li class="last leaf menu-mlid-15380"><a href="/content/Engineering_Support_for_Hardware_and_Software">Engineering Support </a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-1883"><a href="/content/Mission_Tools">Mission Tools</a><div class="dropper"><ul class="menu"><li class="first leaf menu-mlid-1886"><a href="/content/ASP_Mission_Tool_Suite">ASP Mission Tool Suite</a></li>
+<li class="leaf menu-mlid-1885"><a href="http://airbornescience.nasa.gov/tracker/" title="Link to the ASP Asset Tracker" target="_blank">Aircraft Tracker Map</a></li>
+<li class="leaf menu-mlid-1887"><a href="http://airbornescience.nasa.gov/tracker3d/" target="_blank">Aircraft Tracker Earth</a></li>
+<li class="leaf menu-mlid-1888"><a href="http://mts.nasa.gov/" target="_blank">ASP Mission Tools</a></li>
+<li class="leaf menu-mlid-1882"><a href="/science-reports" title="Link to Science Reports Page">Science Reports</a></li>
+<li class="leaf menu-mlid-1991"><a href="http://acce.jpl.nasa.gov/ " target="_blank">ACCE</a></li>
+<li class="leaf menu-mlid-1992"><a href="https://c3.nasa.gov/nex/ " target="_blank">NEX</a></li>
+<li class="leaf menu-mlid-8326"><a href="http://airbornescience.jpl.nasa.gov/data-nasa/" target="_blank">Airborne Data Search</a></li>
+<li class="last leaf menu-mlid-8370"><a href="http://airbornescience.jpl.nasa.gov/visualization/portals-nasa/ " target="_blank">JPL Hurricane Tool</a></li>
+</ul></div></li>
+<li class="last leaf menu-mlid-480"><a href="http://airbornescience.nasa.gov/sofrs/" title="Link to the Flight Request System">Flight Request</a></li>
+</ul>          </div>
+      	<div class="footer_bottom footer"></div>
+      </div>  
+      </div>  
+</div>
+  </div>
+				</div></div> <!-- /.section, /#sidebar-first-top -->
+								</div>
+		<!--End of Left Column -->
+		<div class="wide_right">
+			<!-- Start of ABS Banner -->
+			<div class="wide_right">
+				<div id="center_banner">
+					<div class="box_710">
+						<div id="name-and-logo">
+						  							  <span class="banner_image"><img 
+							    							      alt="NASA Airborne Science Program" 
+							    							  src="https://airbornescience.nasa.gov/sites/default/files/ASP_header.png"></span>
+																						<h1 id="site-name">
+									<a href="/" title="Home" rel="home">
+									    <span>NASA Airborne Science Program</span>
+									</a>
+								</h1>
+														<!-- /#name-and-logo -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End of ABS Banner -->
+	    	
+			<!-- Start of Center Column -->
+<div id="content" class="column aircrafts wide_right"><div class="section">
+  							<div class="node_info">
+										 	<div id="breadcrumbs"><div class="breadcrumb audiences_nav"><a href="/">Home</a> > <a href="/aircraft" class="active">Platforms</a> > Aircraft List</div></div>
+														</div>								<a id="main-content"></a>
+												  <div class="region region-content">
+    <div id="block-views-aircraft-block-1" class="block block-views">
+<div class="content">
+    <div class="box_710_cap ArchiveBrowse">
+	<div class="top_cap_white"></div>
+	<div class="view view-aircraft view-id-aircraft view-display-id-block_1 view-dom-id-d9a457ff5bf3ffe226bb00f9e3b811da">
+		<div class="box_710 box_white box_710_white wide_img_archive">
+			<h2 class="view-header h2_small">Aircraft List</h2>
+			<div id="browseArchive">
+				<span class="ac_header">
+					<p>The NASA Airborne Science Program aircraft list provides unique NASA aircraft and commercial aircraft that benefit the earth science community. These manned and unmanned aircraft carry the sensors that provide data to support and augment NASA spaceborne missions.<br /> <br />Reminder:  All investigators with approved or pending proposals from the Research Opportunities in Space and Earth Sciences (ROSES) announcements that have a requirement for a NASA Airborne Science platform/instrument, must submit a Flight Request. The Flight Request is also the method to acquire an estimate if your proposal requires a cost estimate for Airborne Science support. However, for investigators proposing to participate on large, multi- aircraft experiments, such as the ROSES 2011: South East Asia Composition, Cloud and Climate Coupling Regional Studies (SEAC4RS), a single Flight Request will be submitted for each mission by the project scientist or project manager.  The Science Operations Flight Request System (SOFRS) can be reached directly at <a href="http://airbornescience.nasa.gov/sofrs">http://airbornescience.nasa.gov/sofrs</a>.<br /> <br />For all "Commercial" aircraft, in addition to filing a Flight Request, investigators are responsible for contacting vendors to determine if the platform  meets the requirements of the proposed scientific investigation. It is the responsibility of the investigator to ensure that before any preliminary test flights or actual data collection flights utilizing NASA personnel, instruments or funds occur, all vendors successfully complete a NASA airworthiness/flight safety review in accordance with NASA Aviation Safety Policy for Non-NASA Aircraft.</p>
+				</span>
+			</div>
+		</div> 
+		<div class="bottom_cap_white"></div>
+		<div class="top_cap_grey"></div>
+		<div class="top_blinds_grey"></div>
+		<div id='ac-view'>	
+							<div class="view-menu">
+					<div class="item-list">      <h3> ASP Supported Aircraft</h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/DC-8">DC-8</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/ER-2">ER-2</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/G-III_C-20A_-_Armstrong">G-III (C-20A) - Armstrong</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/G-III_-_JSC">G-III - JSC</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Global_Hawk">Global Hawk</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/P-3_Orion">P-3 Orion</a></span>  </div></li>
+      </ul></div><div class="item-list">      <h3> Other NASA Aircraft</h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B-200_UC-12B_-_LARC">B-200 (UC-12B) - LARC</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B-200_King_Air_-_WFF">B-200 King Air - WFF</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B200_-_AFRC">B200 - AFRC</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B200_-_LARC">B200 - LARC</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/C-130_Hercules">C-130 Hercules</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/C-23_Sherpa">C-23 Sherpa</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/C-9B">C-9B</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Cessna_206H">Cessna 206H</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Dragon_Eye">Dragon Eye</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/HU-25C_Guardian">HU-25C Guardian</a></span>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Ikhana">Ikhana</a></span>  </div></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Learjet_25">Learjet 25</a></span>  </div></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/S-3B">S-3B</a></span>  </div></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/SIERRA">SIERRA</a></span>  </div></li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/T-34C">T-34C</a></span>  </div></li>
+          <li class="views-row views-row-16 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Twin_Otter_-_GRC">Twin Otter - GRC</a></span>  </div></li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/UH-1_Huey">UH-1 Huey</a></span>  </div></li>
+          <li class="views-row views-row-18 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Viking-400">Viking-400</a></span>  </div></li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/WB-57">WB-57</a></span>  </div></li>
+          <li class="views-row views-row-20 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/XSCAV">XSCAV</a></span>  </div></li>
+      </ul></div><div class="item-list">      <h3> Other Federal Aircraft</h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B-200_-_DOE">B-200 - DOE</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Twin_Otter_-_CIRPAS">Twin Otter - CIRPAS</a></span>  </div></li>
+      </ul></div><div class="item-list">      <h3> Commercial Aircraft*</h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Alpha_Jet">Alpha Jet</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/BAT_4">BAT 4</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Cessna_Centurion_C210">Cessna Centurion (C210)</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Cessna_Citation_II">Cessna Citation II</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/DataHawk_SDSS">DataHawk/SDSS</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Extra_EA300">Extra EA300</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Gulfstream_G-1">Gulfstream G-1</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Piper_Navajo">Piper Navajo</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Proteus">Proteus</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Scan_Eagle">Scan Eagle</a></span>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Twin_Otter_International">Twin Otter International</a></span>  </div></li>
+          <li class="views-row views-row-12 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Vision-II">Vision-II</a></span>  </div></li>
+      </ul></div>				
+			
+			  </div>
+</div>
+<div id="block-system-main" class="block block-system">
+<div class="content">
+    <div class="aircraft-view">
+			<div class="view-content">
+			<div class="item-list">      <h3>
+       ASP Supported Aircraft    </h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/DC-8">DC-8</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/DC-8"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DC8-546x123.gif?itok=kPsuAmTz" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/ER-2">ER-2</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/ER-2"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/ER2_546x123.jpg?itok=nHaX8yA5" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/G-III_C-20A_-_Armstrong">G-III (C-20A) - Armstrong</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/G-III_C-20A_-_Armstrong"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G3-546x123.jpg?itok=ogiA0YcK" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/G-III_-_JSC">G-III - JSC</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/G-III_-_JSC"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/NA992_0.jpg?itok=bQuCSVJW" alt="NASA G-III JSC" title="NASA G-III JSC" /></a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Global_Hawk">Global Hawk</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Global_Hawk"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GH_546x123.jpg?itok=sBOn0BrN" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-6 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/P-3_Orion">P-3 Orion</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/P-3_Orion"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/P3-546x123.jpg?itok=xPmz10OL" alt="NASA P-3 Orion" title="NASA P-3 Orion" /></a></div>  </div></li>
+      </ul></div><div class="item-list">      <h3>
+       Other NASA Aircraft    </h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B-200_UC-12B_-_LARC">B-200 (UC-12B) - LARC</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/B-200_UC-12B_-_LARC"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20UC-12B%20cropped.jpg?itok=h7wuANty" alt="NASA Langley Beechcraft  UC-12B Huron (NASA 528)" title="NASA Langley Beechcraft  UC-12B Huron (NASA 528)" /></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B-200_King_Air_-_WFF">B-200 King Air - WFF</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/B-200_King_Air_-_WFF"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/IMG_4614.1.jpg?itok=Mst5Bxpv" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B200_-_AFRC">B200 - AFRC</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/B200_-_AFRC"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DFRC%20B200.jpg?itok=gX5GHgdC" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B200_-_LARC">B200 - LARC</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/B200_-_LARC"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/B200%20LARC.jpg?itok=1SaC8hoB" alt="NASA Langley Beechcraft B200 King Air (NASA 529)" title="NASA Langley Beechcraft B200 King Air (NASA 529)" /></a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/C-130_Hercules">C-130 Hercules</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/C-130_Hercules"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_09451.jpg?itok=Vtm8jZHu" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/C-23_Sherpa">C-23 Sherpa</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/C-23_Sherpa"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0234.jpg?itok=v1YEmxQX" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/C-9B">C-9B</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/C-9B"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/8014867712_c8ebaf6df3_c.jpg?itok=6J8opOwD" alt="NASA C-9B" title="NASA C-9B" /></a></div>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Cessna_206H">Cessna 206H</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Cessna_206H"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20Cessna%20206H%20cropped.jpg?itok=WCQKn_Z1" alt="NASA Langley Cessna 206H Stationair (NASA 504)" title="NASA Langley Cessna 206H Stationair (NASA 504)" /></a></div>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Dragon_Eye">Dragon Eye</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Dragon_Eye"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/dragoneye_web_bg.jpg?itok=aze7yOEp" alt="" title="Dragon Eye" /></a></div>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/HU-25C_Guardian">HU-25C Guardian</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/HU-25C_Guardian"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/hu25c.jpg?itok=ZGEvYpWj" alt="NASA Langley Dassault HU-25C Guardian" title="NASA Langley Dassault HU-25C Guardian (NASA 525)" /></a></div>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Ikhana">Ikhana</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Ikhana"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/predator-546x123.jpg?itok=CUHAZysY" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Learjet_25">Learjet 25</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Learjet_25"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/learjet-546x123.jpg?itok=XjQ8F-HE" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/S-3B">S-3B</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/S-3B"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/s3b.jpg?itok=nHdJYLGl" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/SIERRA">SIERRA</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/SIERRA"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/SIERRA_ASP_home.jpg?itok=aylIxrqN" alt="NASA SIERRA UAV at Moffett Field, California" title="NASA SIERRA UAV" /></a></div>  </div></li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/T-34C">T-34C</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/T-34C"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/t-34c-546x123.jpg?itok=pJCgujNu" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-16 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Twin_Otter_-_GRC">Twin Otter - GRC</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Twin_Otter_-_GRC"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GRC%20TO.jpg?itok=hubTxKNR" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/UH-1_Huey">UH-1 Huey</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/UH-1_Huey"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0189.JPG?itok=z-5SsF1v" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-18 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Viking-400">Viking-400</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Viking-400"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/viking%20pic%20small.jpg?itok=VatPbAHA" alt="" title="NASA Viking-400 UAV" /></a></div>  </div></li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/WB-57">WB-57</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/WB-57"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/WB57_546x123.jpg?itok=ThJY6V2P" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-20 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/XSCAV">XSCAV</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/XSCAV"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/xcav_1.jpg?itok=LbpbXjcJ" alt="" /></a></div>  </div></li>
+      </ul></div><div class="item-list">      <h3>
+       Other Federal Aircraft    </h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/B-200_-_DOE">B-200 - DOE</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/B-200_-_DOE"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Kingair-546x123.gif?itok=JWAF3ZSu" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Twin_Otter_-_CIRPAS">Twin Otter - CIRPAS</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Twin_Otter_-_CIRPAS"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/CIRPAS%2520Twin%2520Otter.JPG?itok=4iwlrbgG" alt="Naval Postgraduate School CIRPAS Twin Otter" title="NPS CIRPAS Twin Otter" /></a></div>  </div></li>
+      </ul></div><div class="item-list">      <h3>
+       Commercial Aircraft <span style="font-size:12px">*recently used by NASA Science</span>    </h3>
+    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Alpha_Jet">Alpha Jet</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Alpha_Jet"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Alpha%20Jet.jpg?itok=hWdK4VPF" alt="H211 LLC Alpha Jet" title="H211 LLC Alpha Jet" /></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/BAT_4">BAT 4</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/BAT_4"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Bat4_4_cropped.jpg?itok=JI1ujWPK" alt="" title="BAT 4 - MLB Company" /></a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Cessna_Centurion_C210">Cessna Centurion (C210)</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Cessna_Centurion_C210"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Centurion.png?itok=LXgeAWbD" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Cessna_Citation_II">Cessna Citation II</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Cessna_Citation_II"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Citation%20sunrise%20365cropped.jpg?itok=Pun7Bizy" alt="UND Citation" title="UND Citation" /></a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/DataHawk_SDSS">DataHawk/SDSS</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/DataHawk_SDSS"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/data_hawks.jpg?itok=sZg0tPKy" alt="DataHawk" title="DataHawk" /></a></div>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Extra_EA300">Extra EA300</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Extra_EA300"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Extra%20EA300.png?itok=GEcFijWf" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Gulfstream_G-1">Gulfstream G-1</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Gulfstream_G-1"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G1_commercial.jpg?itok=lTy1qHun" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Piper_Navajo">Piper Navajo</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Piper_Navajo"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Navajo.png?itok=dx034ohu" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Proteus">Proteus</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Proteus"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/wingext21ad.jpg?itok=wn487XKj" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Scan_Eagle">Scan Eagle</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Scan_Eagle"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/se_0.jpg?itok=HAzOuBFZ" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Twin_Otter_International">Twin Otter International</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Twin_Otter_International"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/TwinOtter_0.gif?itok=yHcm9-2k" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-12 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/aircraft/Vision-II">Vision-II</a></span>  </div>  
+  <div class="views-field views-field-field-ac-primary-image">        <div class="field-content"><a href="/aircraft/Vision-II"><img typeof="foaf:Image" src="https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/visionII.jpg?itok=f10nOf-R" alt="Vision-II remotely piloted rotorcraft" title="Vision-II" /></a></div>  </div></li>
+      </ul></div>		</div>
+	</div>
+
+</div>
+</div>
+</div>
+</div>  </div>
+</div>
+  </div>
+							</div></div> <!-- /.section, /#content -->
+			<!-- End of Center Column -->
+			
+			<!--Start of Right Column -->
+			<div class="right_232">
+							</div>
+			<!-- End if Right Column -->
+		</div>
+	
+	</div></div> <!-- /#main, /#main-wrapper -->
+	<div id="footer"><div class="section">
+		<a href="http://www.nasa.gov" class="nasa_logo_footer">
+			<span class="hide">NASA Home</span>
+		</a>
+		<div id="footercol1">
+			<span>
+				<p>
+					Page Last Updated:
+					 
+						August 16, 2012 
+									</p>
+				<p>
+					Page Editor: 
+					 
+						Erin Justice
+									</p>
+				<p>NASA Official: Mike Craig</p>
+			</span>
+		</div>
+		<div id="footercol2">
+			<ul>
+				<li><a href="http://www.nasa.gov/news/budget/index.html">Budgets, Strategic Plans and Accountability Reports</a></li>
+				<li><a href="http://www.hq.nasa.gov/office/codee/nofear.html">Equal Employment Opportunity Data Posted Pursuant to the No Fear Act</a></li>
+				<li><a href="http://www.nasa.gov/about/contact/information_inventories_schedules.html">Information-Dissemination Policies and Inventories</a></li>
+			</ul>
+		</div>
+		<div id="footercol3">
+			<ul>
+				<li><a href="http://www.hq.nasa.gov/office/pao/FOIA/agency/">Freedom of Information Act</a></li>
+				<li><a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy & Important Notices</a></li>
+				<li><a href="http://www.nasa.gov/offices/nac/home/index.html">NASA Advisory Council</a></li>
+				<li><a href="http://oig.nasa.gov/hotline.html">Inspector General Hotline</a></li>
+				<li><a href="http://oig.nasa.gov">Office of the Inspector General</a></li>
+				<li><a href="http://www.nasa.gov/audience/formeida/features/communication_policy.html">NASA Communications Policy</a></li>
+			</ul>
+		</div>
+		<div id="footercol4">
+			<ul>
+				<li><a href="http://www.nasa.gov/about/contact/index.html">Contact NASA</a></li>
+				<li><a href="http://www.nasa.gov/sitemap/sitemap_nasa.html">Site Map</a></li>
+				<li><a href="http://wwww.USA.gov">USA.gov</a></li>
+				<li><a href="http://wwww.whitehouse.gov/omb/expectmore/">ExpectMore.gov</a></li>
+				<li><a href="http://www.nasa.gov/open/index.html">Open Government at NASA</a></li>
+				<!--<li><a href="">Help and Preferences</a></li>-->
+			</ul>
+		</div>
+			</div></div> <!-- /.section, /#footer -->
+</div></div> <!-- /#page, /#page-wrapper -->
+   
+  <div class="background_layer">&nbsp;</div>
+
+</body> 
+</html>
