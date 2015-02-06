@@ -5,9 +5,11 @@ use Data::Dumper;
 use YAML::XS qw/Dump/;
 use v5.14;
 
+my $base = 'https://airbornescience.nasa.gov';
+
 my $ua = Mojo::UserAgent->new();
 
-my $tx = $ua->get('https://airbornescience.nasa.gov/aircraft');
+my $tx = $ua->get("$base/aircraft");
 my $res = $tx->success or die Dumper($tx->error);
 my @aircraft;
 
@@ -19,7 +21,7 @@ $res->dom->find('.view-content > div ')->each(
       sub {
             my ($i) = $_->find('div > span > a')
             ->map( sub {
-                {name => $_->text, url => $_->attr('href'), funder => $funder};
+                {name => $_->text, url => $base.$_->attr('href'), funder => $funder};
               }
             )->each;
 
@@ -51,7 +53,7 @@ while ($more) {
         $more = 1;
         my %this = (
           title => $title,
-          url   => $_->at('.views-field-title a')->attr('href'),
+          url   => $base.$_->at('.views-field-title a')->attr('href'),
           id    => $_->at('.views-field-entity-id')->text,
           aircraft => [$_->find('.views-field-field-aircraft > a')->map('text')->map(sub{s/ /_/gr;})->each],
           type => ($_->find('.views-field-field-itype > a')->compact->map('text')->each)[0]
