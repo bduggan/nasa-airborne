@@ -22,7 +22,7 @@ $dom->find('.view-content > div ')->each(
             )->each;
 
             my ($j) = $_->find('div > div > a > img')
-              ->map(sub { {thumbnail => $_->attr('src')} })
+              ->map(sub { {thumbnail => ($_->attr('src') =~ s/\?.*$//r) } })
               ->each;
 
             push @all, {%$i,%$j};

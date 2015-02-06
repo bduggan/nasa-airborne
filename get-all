@@ -26,7 +26,7 @@ $res->dom->find('.view-content > div ')->each(
             )->each;
 
             my ($j) = $_->find('div > div > a > img')
-              ->map(sub { {thumbnail => $_->attr('src')} })
+              ->map(sub { {thumbnail => ($_->attr('src') =~ s/\?.*$//r) } })
               ->each;
 
             push @aircraft, {%$i,%$j};
@@ -56,7 +56,7 @@ while ($more) {
           url   => $base.$_->at('.views-field-title a')->attr('href'),
           id    => $_->at('.views-field-entity-id')->text,
           aircraft => [$_->find('.views-field-field-aircraft > a')->map('text')->map(sub{s/ /_/gr;})->each],
-          type => ($_->find('.views-field-field-itype > a')->compact->map('text')->each)[0]
+          type => $_->find('.views-field-field-itype > a')->compact->map('text')->join(', ')->to_string
         );
         push @instruments, \%this;
       }

@@ -19,7 +19,7 @@ $dom->find('tr')->each(
       url   => $_->at('.views-field-title a')->attr('href'),
       id    => $_->at('.views-field-entity-id')->text,
       aircraft => [$_->find('.views-field-field-aircraft > a')->map('text')->map(sub{s/ /_/gr;})->each],
-      type => ($_->find('.views-field-field-itype > a')->compact->map('text')->each)[0]
+      type => $_->find('.views-field-field-itype > a')->compact->map('text')->join(', ')->to_string
     );
 
     push @all, \%this;

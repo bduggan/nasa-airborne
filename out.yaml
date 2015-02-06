@@ -2,170 +2,170 @@
 aircraft:
 - funder: ASP Supported Aircraft
   name: DC-8
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DC8-546x123.gif?itok=kPsuAmTz
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DC8-546x123.gif
   url: https://airbornescience.nasa.gov/aircraft/DC-8
 - funder: ASP Supported Aircraft
   name: ER-2
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/ER2_546x123.jpg?itok=nHaX8yA5
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/ER2_546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/ER-2
 - funder: ASP Supported Aircraft
   name: G-III (C-20A) - Armstrong
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G3-546x123.jpg?itok=ogiA0YcK
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G3-546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/G-III_C-20A_-_Armstrong
 - funder: ASP Supported Aircraft
   name: G-III - JSC
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/NA992_0.jpg?itok=bQuCSVJW
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/NA992_0.jpg
   url: https://airbornescience.nasa.gov/aircraft/G-III_-_JSC
 - funder: ASP Supported Aircraft
   name: Global Hawk
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GH_546x123.jpg?itok=sBOn0BrN
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GH_546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/Global_Hawk
 - funder: ASP Supported Aircraft
   name: P-3 Orion
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/P3-546x123.jpg?itok=xPmz10OL
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/P3-546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/P-3_Orion
 - funder: Other NASA Aircraft
   name: B-200 (UC-12B) - LARC
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20UC-12B%20cropped.jpg?itok=h7wuANty
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20UC-12B%20cropped.jpg
   url: https://airbornescience.nasa.gov/aircraft/B-200_UC-12B_-_LARC
 - funder: Other NASA Aircraft
   name: B-200 King Air - WFF
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/IMG_4614.1.jpg?itok=Mst5Bxpv
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/IMG_4614.1.jpg
   url: https://airbornescience.nasa.gov/aircraft/B-200_King_Air_-_WFF
 - funder: Other NASA Aircraft
   name: B200 - AFRC
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DFRC%20B200.jpg?itok=gX5GHgdC
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DFRC%20B200.jpg
   url: https://airbornescience.nasa.gov/aircraft/B200_-_AFRC
 - funder: Other NASA Aircraft
   name: B200 - LARC
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/B200%20LARC.jpg?itok=1SaC8hoB
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/B200%20LARC.jpg
   url: https://airbornescience.nasa.gov/aircraft/B200_-_LARC
 - funder: Other NASA Aircraft
   name: C-130 Hercules
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_09451.jpg?itok=Vtm8jZHu
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_09451.jpg
   url: https://airbornescience.nasa.gov/aircraft/C-130_Hercules
 - funder: Other NASA Aircraft
   name: C-23 Sherpa
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0234.jpg?itok=v1YEmxQX
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0234.jpg
   url: https://airbornescience.nasa.gov/aircraft/C-23_Sherpa
 - funder: Other NASA Aircraft
   name: C-9B
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/8014867712_c8ebaf6df3_c.jpg?itok=6J8opOwD
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/8014867712_c8ebaf6df3_c.jpg
   url: https://airbornescience.nasa.gov/aircraft/C-9B
 - funder: Other NASA Aircraft
   name: Cessna 206H
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20Cessna%20206H%20cropped.jpg?itok=WCQKn_Z1
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/LARC%20Cessna%20206H%20cropped.jpg
   url: https://airbornescience.nasa.gov/aircraft/Cessna_206H
 - funder: Other NASA Aircraft
   name: Dragon Eye
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/dragoneye_web_bg.jpg?itok=aze7yOEp
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/dragoneye_web_bg.jpg
   url: https://airbornescience.nasa.gov/aircraft/Dragon_Eye
 - funder: Other NASA Aircraft
   name: HU-25C Guardian
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/hu25c.jpg?itok=ZGEvYpWj
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/hu25c.jpg
   url: https://airbornescience.nasa.gov/aircraft/HU-25C_Guardian
 - funder: Other NASA Aircraft
   name: Ikhana
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/predator-546x123.jpg?itok=CUHAZysY
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/predator-546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/Ikhana
 - funder: Other NASA Aircraft
   name: Learjet 25
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/learjet-546x123.jpg?itok=XjQ8F-HE
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/learjet-546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/Learjet_25
 - funder: Other NASA Aircraft
   name: S-3B
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/s3b.jpg?itok=nHdJYLGl
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/s3b.jpg
   url: https://airbornescience.nasa.gov/aircraft/S-3B
 - funder: Other NASA Aircraft
   name: SIERRA
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/SIERRA_ASP_home.jpg?itok=aylIxrqN
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/SIERRA_ASP_home.jpg
   url: https://airbornescience.nasa.gov/aircraft/SIERRA
 - funder: Other NASA Aircraft
   name: T-34C
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/t-34c-546x123.jpg?itok=pJCgujNu
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/t-34c-546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/T-34C
 - funder: Other NASA Aircraft
   name: Twin Otter - GRC
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GRC%20TO.jpg?itok=hubTxKNR
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/GRC%20TO.jpg
   url: https://airbornescience.nasa.gov/aircraft/Twin_Otter_-_GRC
 - funder: Other NASA Aircraft
   name: UH-1 Huey
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0189.JPG?itok=z-5SsF1v
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/DSC_0189.JPG
   url: https://airbornescience.nasa.gov/aircraft/UH-1_Huey
 - funder: Other NASA Aircraft
   name: Viking-400
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/viking%20pic%20small.jpg?itok=VatPbAHA
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/viking%20pic%20small.jpg
   url: https://airbornescience.nasa.gov/aircraft/Viking-400
 - funder: Other NASA Aircraft
   name: WB-57
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/WB57_546x123.jpg?itok=ThJY6V2P
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/WB57_546x123.jpg
   url: https://airbornescience.nasa.gov/aircraft/WB-57
 - funder: Other NASA Aircraft
   name: XSCAV
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/xcav_1.jpg?itok=LbpbXjcJ
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/xcav_1.jpg
   url: https://airbornescience.nasa.gov/aircraft/XSCAV
 - funder: Other Federal Aircraft
   name: B-200 - DOE
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Kingair-546x123.gif?itok=JWAF3ZSu
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Kingair-546x123.gif
   url: https://airbornescience.nasa.gov/aircraft/B-200_-_DOE
 - funder: Other Federal Aircraft
   name: Twin Otter - CIRPAS
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/CIRPAS%2520Twin%2520Otter.JPG?itok=4iwlrbgG
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/CIRPAS%2520Twin%2520Otter.JPG
   url: https://airbornescience.nasa.gov/aircraft/Twin_Otter_-_CIRPAS
 - funder: Commercial Aircraft
   name: Alpha Jet
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Alpha%20Jet.jpg?itok=hWdK4VPF
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Alpha%20Jet.jpg
   url: https://airbornescience.nasa.gov/aircraft/Alpha_Jet
 - funder: Commercial Aircraft
   name: BAT 4
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Bat4_4_cropped.jpg?itok=JI1ujWPK
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Bat4_4_cropped.jpg
   url: https://airbornescience.nasa.gov/aircraft/BAT_4
 - funder: Commercial Aircraft
   name: Cessna Centurion (C210)
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Centurion.png?itok=LXgeAWbD
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Centurion.png
   url: https://airbornescience.nasa.gov/aircraft/Cessna_Centurion_C210
 - funder: Commercial Aircraft
   name: Cessna Citation II
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Citation%20sunrise%20365cropped.jpg?itok=Pun7Bizy
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Citation%20sunrise%20365cropped.jpg
   url: https://airbornescience.nasa.gov/aircraft/Cessna_Citation_II
 - funder: Commercial Aircraft
   name: DataHawk/SDSS
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/data_hawks.jpg?itok=sZg0tPKy
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/data_hawks.jpg
   url: https://airbornescience.nasa.gov/aircraft/DataHawk_SDSS
 - funder: Commercial Aircraft
   name: Extra EA300
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Extra%20EA300.png?itok=GEcFijWf
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Extra%20EA300.png
   url: https://airbornescience.nasa.gov/aircraft/Extra_EA300
 - funder: Commercial Aircraft
   name: Gulfstream G-1
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G1_commercial.jpg?itok=lTy1qHun
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/G1_commercial.jpg
   url: https://airbornescience.nasa.gov/aircraft/Gulfstream_G-1
 - funder: Commercial Aircraft
   name: Piper Navajo
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Navajo.png?itok=dx034ohu
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/Navajo.png
   url: https://airbornescience.nasa.gov/aircraft/Piper_Navajo
 - funder: Commercial Aircraft
   name: Proteus
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/wingext21ad.jpg?itok=wn487XKj
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/wingext21ad.jpg
   url: https://airbornescience.nasa.gov/aircraft/Proteus
 - funder: Commercial Aircraft
   name: Scan Eagle
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/se_0.jpg?itok=HAzOuBFZ
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/se_0.jpg
   url: https://airbornescience.nasa.gov/aircraft/Scan_Eagle
 - funder: Commercial Aircraft
   name: Twin Otter International
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/TwinOtter_0.gif?itok=yHcm9-2k
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/TwinOtter_0.gif
   url: https://airbornescience.nasa.gov/aircraft/Twin_Otter_International
 - funder: Commercial Aircraft
   name: Vision-II
-  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/visionII.jpg?itok=f10nOf-R
+  thumbnail: https://airbornescience.nasa.gov/sites/default/files/styles/thumbnail-235wide/public/visionII.jpg
   url: https://airbornescience.nasa.gov/aircraft/Vision-II
 instruments:
 - aircraft:
   - ER-2
   id: ATLAS
   title: Airborne Tunable Laser Absorption Spectrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/ATLAS_0
 - aircraft:
   - DC-8
@@ -243,7 +243,7 @@ instruments:
   - DC-8
   id: ACIR
   title: Aerosol/Cloud Particle Impactor/Replicator
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/ACIR
 - aircraft:
   - Balloon
@@ -283,7 +283,7 @@ instruments:
   - Global_Hawk
   id: ADELE
   title: Airborne Detector for Energetic Lightning Emissions
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/ADELE
 - aircraft:
   - C-130_Hercules
@@ -302,7 +302,7 @@ instruments:
   - G-III_(C-20A)_-_Armstrong
   id: GLISTIN-A
   title: Airborne Glacier and Land Ice Surface Topography Interferometer
-  type: Interferometer
+  type: Interferometer, Radar
   url: https://airbornescience.nasa.gov/instrument/GLISTIN-A
 - aircraft:
   - DC-8
@@ -321,13 +321,13 @@ instruments:
   - ER-2
   id: AirMISR
   title: Airborne Multi-angle Imaging SpectroRadiometer
-  type: Camera
+  type: Camera, Spectrometer
   url: https://airbornescience.nasa.gov/instrument/AirMISR
 - aircraft:
   - ER-2
   id: AirMSPI
   title: Airborne Multi-angle SpectroPolarimeter Imager
-  type: Camera
+  type: Camera, Spectrometer
   url: https://airbornescience.nasa.gov/instrument/AirMSPI
 - aircraft:
   - Convair-580
@@ -353,7 +353,7 @@ instruments:
   - DC-8
   id: AROTAL
   title: Airborne Raman Ozone, Temperature, and Aerosol Lidar
-  type: Lidar
+  type: Lidar, Raman spectrometer
   url: https://airbornescience.nasa.gov/instrument/AROTAL
 - aircraft:
   - WB-57
@@ -434,13 +434,13 @@ instruments:
   - WB-57
   id: ALIAS
   title: Aircraft Laser Infrared Absorption Spectrometer
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/ALIAS
 - aircraft:
   - Alpha_Jet
   id: ''
   title: Alpha Jet Ozone Instrument
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Alpha%20Jet%20Ozone%20Instrument
 - aircraft:
   - DC-8
@@ -452,7 +452,7 @@ instruments:
   - Twin_Otter
   id: AESOP
   title: Ames Extinction Scattering Optical Property Instrument
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/AESOP
 - aircraft:
   - B200_-_LARC
@@ -471,7 +471,7 @@ instruments:
   - WB-57
   id: ARGUS
   title: Argus Tunable Diode Laser Instrument
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/ARGUS
 - aircraft:
   - DC-8
@@ -500,12 +500,12 @@ instruments:
   - Balloon
   id: Balloon FPH
   title: Balloon Borne Frost Point Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Balloon%20FPH
 - aircraft: []
   id: Balloonsondes (NOAA)
   title: Balloonsondes (NOAA)
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Balloonsondes%20%28NOAA%29
 - aircraft:
   - DC-8
@@ -532,7 +532,7 @@ instruments:
   - P-3_Orion
   id: COAST
   title: Carbon Dioxide and Ozone Airborne in Situ Tracers
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/COAST
 - aircraft:
   - DC-8
@@ -554,7 +554,7 @@ instruments:
   - WB-57
   id: CAFS
   title: CCD Actinic Flux Spectroradiometers
-  type: Spectrometer (in situ)
+  type: Spectrometer (in situ), Radiometer
   url: https://airbornescience.nasa.gov/instrument/CAFS
 - aircraft:
   - DC-8
@@ -588,13 +588,13 @@ instruments:
   - WB-57
   id: CLH
   title: Closed-path Laser Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/CLH
 - aircraft:
   - NSF_G-V
   id: CLH2
   title: Closed-path Laser Hygrometer 2
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/CLH2
 - aircraft:
   - J-31
@@ -608,7 +608,7 @@ instruments:
   - WB-57
   id: CAPS
   title: Cloud Aerosol and Precipitation Spectrometer
-  type: Particle imager
+  type: Particle imager, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/CAPS
 - aircraft:
   - NSF_G-V
@@ -667,7 +667,7 @@ instruments:
   - WB-57
   id: CSI
   title: Cloud Spectrometer and Impactor
-  type: Counterflow virtual impactor
+  type: Counterflow virtual impactor, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/CSI
 - aircraft:
   - DC-8
@@ -697,7 +697,7 @@ instruments:
   - P-3_Orion
   id: CARDS
   title: Coherent Radar Depth Sounder
-  type: Radar
+  type: Radar, Sounder
   url: https://airbornescience.nasa.gov/instrument/CARDS
 - aircraft:
   - NSF_G-V
@@ -709,7 +709,7 @@ instruments:
   - ER-2
   id: CPFM
   title: Composition and Photo-Dissociative Flux Measurement
-  type: Radiometer
+  type: Radiometer, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/CPFM
 - aircraft:
   - ER-2
@@ -722,7 +722,7 @@ instruments:
   - ER-2
   id: CNC
   title: Condensation Nucleus Counters (CNCs) and Electrical Aerosol Sampler (EAS)
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/CNC_0
 - aircraft:
   - ER-2
@@ -767,7 +767,7 @@ instruments:
   - WB-57
   id: CDC
   title: Cosmic Dust Collectors
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/CDC
 - aircraft:
   - Citation
@@ -781,7 +781,7 @@ instruments:
   - DC-8
   id: CRYO
   title: Cryogenic Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/CRYO
 - aircraft:
   - P-3_Orion
@@ -801,7 +801,7 @@ instruments:
   - P-3_Orion
   id: DACOM
   title: Differential Absorption Carbon Monoxide Measurement
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/DACOM
 - aircraft:
   - DC-8
@@ -813,7 +813,7 @@ instruments:
   - DC-8
   id: DASH-SP
   title: Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe
-  type: Differential mobility
+  type: Differential mobility, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/DASH-SP
 - aircraft:
   - DC-8
@@ -870,7 +870,7 @@ instruments:
   - DC-8
   id: DCALS
   title: Dual Channel Airborne tunable diode Laser Spectrometer
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/DCALS
 - aircraft:
   - ER-2
@@ -919,7 +919,7 @@ instruments:
   - WB-57
   id: FISH
   title: Fast In-situ Stratospheric Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/FISH
 - aircraft:
   - DC-8
@@ -975,13 +975,13 @@ instruments:
   - WB-57
   id: FP
   title: Frost Point (NOAA)
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/FP
 - aircraft:
   - ER-2
   id: FPCAS
   title: FSSP-300 Aerosol Spectrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/FPCAS
 - aircraft:
   - NSF_G-V
@@ -993,7 +993,7 @@ instruments:
   - DC-8
   id: GAMS/LAABS
   title: Gas and Aerosol Measurement Sensor/Langley Airborne A-Band Spectrometer
-  type: Solar Occultation
+  type: Solar Occultation, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/GAMS/LAABS
 - aircraft:
   - DC-8
@@ -1017,13 +1017,13 @@ instruments:
   - P-3_Orion
   id: GISMO
   title: Global Ice-sheet Mapping Orbiter
-  type: Interferometer
+  type: Interferometer, Radar
   url: https://airbornescience.nasa.gov/instrument/GISMO
 - aircraft:
   - DC-8
   id: ''
   title: Goodrich Clear Air Turbulence Data Collection
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Goodrich%20Clear%20Air%20Turbulence%20Data%20Collection
 - aircraft:
   - P-3_Orion
@@ -1035,13 +1035,13 @@ instruments:
   - P-3_Orion
   id: GPS/RS
   title: GPS Radiosondes
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/GPS/RS
 - aircraft:
   - P-3_Orion
   id: GPSRS
   title: GPS Remote Sensing Instrument
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/GPSRS
 - aircraft:
   - NSF_G-V
@@ -1059,14 +1059,14 @@ instruments:
   - WB-57
   id: HHH
   title: Harvard Harriot Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/HHH
 - aircraft:
   - ER-2
   - WB-57
   id: HOx
   title: Harvard Hydroxyl Experiment
-  type: Fluorescence
+  type: Fluorescence, Laser absorption
   url: https://airbornescience.nasa.gov/instrument/HOx
 - aircraft:
   - WB-57
@@ -1099,7 +1099,8 @@ instruments:
   - P-3_Orion
   id: HIGEAR
   title: Hawaii Group for Environmental Aerosol Research
-  type: CN counter
+  type: CN counter, Differential mobility, Laser absorption, Optical particle counter,
+    Photometer, Spectrometer
   url: https://airbornescience.nasa.gov/instrument/HIGEAR
 - aircraft:
   - Global_Hawk
@@ -1110,7 +1111,7 @@ instruments:
 - aircraft: []
   id: HDVIS
   title: HDVIS
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/HDVIS
 - aircraft:
   - NSF_G-V
@@ -1122,7 +1123,7 @@ instruments:
   - Global_Hawk
   id: HIWRAP
   title: High Altitude Imaging Wind and Rain Airborne Profiler
-  type: Radar
+  type: Radar, Scatterometer
   url: https://airbornescience.nasa.gov/instrument/HIWRAP
 - aircraft:
   - DC-8
@@ -1130,7 +1131,7 @@ instruments:
   - Global_Hawk
   id: HAMSR
   title: High Altitude Monolithic Microwave integrated Circuit (MMIC) Sounding Radiometer
-  type: Microwave Radiometer
+  type: Microwave Radiometer, Sounder
   url: https://airbornescience.nasa.gov/instrument/HAMSR
 - aircraft:
   - DC-8
@@ -1142,7 +1143,7 @@ instruments:
   - DC-8
   id: HFRS
   title: High Frame Rate Slit-less Spectrograph
-  type: Camera
+  type: Camera, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/HFRS
 - aircraft:
   - B200_-_LARC
@@ -1157,13 +1158,13 @@ instruments:
   - WB-57
   id: HVPS
   title: High Volume Precipitation Spectrometer
-  type: Particle imager
+  type: Particle imager, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/HVPS
 - aircraft:
   - ER-2
   id: HOx
   title: High-altitude OH Experiment
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/HOx_0
 - aircraft:
   - Balloon
@@ -1228,7 +1229,7 @@ instruments:
   - ER-2
   id: ''
   title: In-Situ Ozone
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/In-Situ%20Ozone
 - aircraft:
   - DC-8
@@ -1271,7 +1272,7 @@ instruments:
   - WB-57
   id: IRIS
   title: Isotope Ratio Infrared Spectrometer
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/IRIS
 - aircraft:
   - DC-8
@@ -1307,14 +1308,14 @@ instruments:
   - P-3_Orion
   id: LISA
   title: L-Band Interference Surveyor/Analyzer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/LISA
 - aircraft:
   - DC-8
   - C-130_Hercules
   id: LARGE
   title: Langley Aerosol Research Group Experiment
-  type: CN counter
+  type: CN counter, Optical particle counter, Photometer, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/LARGE
 - aircraft:
   - DC-8
@@ -1326,7 +1327,7 @@ instruments:
   - ER-2
   id: LAC
   title: Large Area Collectors
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/LAC
 - aircraft:
   - DC-8
@@ -1379,7 +1380,7 @@ instruments:
   - Global_Hawk
   id: LIP
   title: Lightning Instrument Project
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/LIP
 - aircraft:
   - Balloon
@@ -1391,13 +1392,13 @@ instruments:
   - ER-2
   id: ''
   title: Lyman Alpha-Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Lyman%20Alpha-Hygrometer
 - aircraft:
   - P-3_Orion
   id: MGRS
   title: MACRES Ground Receiving Station (MGRS)
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/MGRS
 - aircraft:
   - P-3_Orion
@@ -1425,7 +1426,7 @@ instruments:
   - WB-57
   id: MMS
   title: Meteorological Measurement System
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/MMS
 - aircraft:
   - WB-57
@@ -1437,7 +1438,7 @@ instruments:
   - P-3_Orion
   id: ''
   title: Microspectrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Microspectrometer
 - aircraft:
   - DC-8
@@ -1504,7 +1505,7 @@ instruments:
   - P-3_Orion
   id: MMLA
   title: Multi-kilohertz Microlaser Altimeter
-  type: Camera
+  type: Camera, Photometer
   url: https://airbornescience.nasa.gov/instrument/MMLA
 - aircraft:
   - WB-57
@@ -1531,7 +1532,7 @@ instruments:
   id: ClO and BrO
   title: Multiple Axis Resonance Fluorescence Chemical Conversion Detector for ClO
     and BrO
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/C10%20and%20BrO
 - aircraft:
   - DC-8
@@ -1572,7 +1573,7 @@ instruments:
   - WB-57
   id: Nevzorov
   title: Nevzorov Liquid Water Content (LWC) and Total Water Content (TWC) Probe
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Nevzorov
 - aircraft:
   - ER-2
@@ -1595,7 +1596,7 @@ instruments:
   - WB-57
   id: NOAA TW
   title: NOAA Lyman-Alpha Total Water Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/NOAA%20TW
 - aircraft:
   - DC-8
@@ -1614,13 +1615,13 @@ instruments:
   - WB-57
   id: NOAA PT
   title: NOAA Pressure and Temperature
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/NOAA%20PT
 - aircraft:
   - Global_Hawk
   id: NW
   title: NOAA Water
-  type: CIMS
+  type: CIMS, Laser absorption
   url: https://airbornescience.nasa.gov/instrument/NW
 - aircraft:
   - WB-57
@@ -1652,7 +1653,7 @@ instruments:
   - WB-57
   id: NMASS
   title: Nuclei-Mode Aerosol Size Spectrometer
-  type: CN counter
+  type: CN counter, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/NMASS
 - aircraft:
   - ER-2
@@ -1673,7 +1674,7 @@ instruments:
 - aircraft: []
   id: Ozonesondes (NOAA)
   title: Ozonesondes (NOAA)
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Ozonesondes%20%28NOAA%29
 - aircraft:
   - DC-8
@@ -1701,7 +1702,7 @@ instruments:
   - P-3_Orion
   id: PILS
   title: Particle into liquid sampler
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/PILS
 - aircraft:
   - C-130_Hercules
@@ -1716,7 +1717,7 @@ instruments:
   - Twin_Otter
   id: PALS
   title: Passive Active L- and S-band Sensor
-  type: Radar
+  type: Radar, Radiometer, Scatterometer
   url: https://airbornescience.nasa.gov/instrument/PALS
 - aircraft:
   - P-3_Orion
@@ -1749,7 +1750,7 @@ instruments:
   - Twin_Otter
   id: PolSCAT
   title: Polarimetric Ku-Band Scatterometer
-  type: Radar
+  type: Radar, Scatterometer
   url: https://airbornescience.nasa.gov/instrument/PolSCAT
 - aircraft:
   - DC-8
@@ -1792,7 +1793,7 @@ instruments:
   - DC-8
   id: PI-Neph
   title: Polarized Imaging Nephelometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/PI-Neph
 - aircraft: []
   id: PRISM
@@ -1803,7 +1804,7 @@ instruments:
   - DC-8
   id: PIP
   title: Precipitation Imaging Probe
-  type: Particle imager
+  type: Particle imager, Spectrometer
   url: https://airbornescience.nasa.gov/instrument/PIP
 - aircraft:
   - C-130_Hercules
@@ -1816,13 +1817,13 @@ instruments:
   - ER-2
   id: PHA
   title: Pulse Height Analyzer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/PHA
 - aircraft:
   - P-3_Orion
   id: QMS
   title: Quadropole Mass Spectrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/QMS
 - aircraft:
   - WB-57
@@ -1874,7 +1875,7 @@ instruments:
   - ER-2
   id: ''
   title: Reactive Nitrogen
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/Reactive%20Nitrogen
 - aircraft:
   - DC-8
@@ -1895,13 +1896,13 @@ instruments:
   - DC-8
   id: RICE
   title: Rosemount Icing Detector
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/RICE
 - aircraft:
   - DC-8
   id: PHOT
   title: Sandia National Laboratory 2-channel Radiometer
-  type: Photometer
+  type: Photometer, Radiometer
   url: https://airbornescience.nasa.gov/instrument/PHOT
 - aircraft:
   - C-130_Hercules
@@ -1935,7 +1936,7 @@ instruments:
   - ER-2
   id: SEU
   title: Single Event Upset
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/SEU
 - aircraft:
   - C-130_Hercules
@@ -1993,7 +1994,7 @@ instruments:
   - WB-57
   id: SPP
   title: SPP-100
-  type: Optical particle counter
+  type: Optical particle counter, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/SPP
 - aircraft:
   - Balloon
@@ -2030,27 +2031,27 @@ instruments:
   - NSF_G-V
   id: 3V-CPI
   title: Three-View Cloud Particle Imager
-  type: Particle imager
+  type: Particle imager, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/3V-CPI
 - aircraft:
   - ER-2
   id: TEPC
   title: Tissue Equivalent Particle Counter
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/TEPC
 - aircraft:
   - DC-8
   - NSF_G-V
   id: TOGA
   title: Trace Organic Gas Analyzer
-  type: Gas chromatography
+  type: Gas chromatography, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/TOGA
 - aircraft:
   - DC-8
   - WB-57
   id: TOTCAP
   title: Tropospheric Ozone and Tracers from Commercial Aircraft Platforms
-  type: Laser absorption
+  type: Laser absorption, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/TOTCAP
 - aircraft:
   - DC-8
@@ -2070,7 +2071,7 @@ instruments:
   - Twin_Otter_(DOE)
   id: TSI Neph
   title: TSI 3563 Integrating Nephelometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/TSI%20Neph
 - aircraft:
   - P-3_Orion
@@ -2090,7 +2091,7 @@ instruments:
   - DC-8
   id: UCATS
   title: UAS Chromatograph for Atmospheric Trace Species
-  type: Gas chromatography
+  type: Gas chromatography, Photometer, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/UCATS
 - aircraft:
   - Global_Hawk
@@ -2109,12 +2110,12 @@ instruments:
   - DC-8
   id: UNHMERC
   title: UNH Mercury
-  type: Fluorescence
+  type: Fluorescence, Spectrometer (in situ)
   url: https://airbornescience.nasa.gov/instrument/UNHMERC
 - aircraft: []
   id: UAVAWSP
   title: Uninhabited Aerial Vehicle Atmo Water Sensor Package
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/UAVAWSP
 - aircraft:
   - G-III_(C-20A)_-_Armstrong
@@ -2127,7 +2128,7 @@ instruments:
   - WB-57
   id: ULH
   title: Unmanned Aerial System Laser Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/ULH
 - aircraft:
   - DC-8
@@ -2145,7 +2146,7 @@ instruments:
   - DC-8
   id: AIRGLOW
   title: Utah State University Airglow Study
-  type: Camera
+  type: Camera, Interferometer
   url: https://airbornescience.nasa.gov/instrument/AIRGLOW
 - aircraft:
   - DC-8
@@ -2163,7 +2164,7 @@ instruments:
   - NSF_G-V
   id: VCSEL
   title: Vertical Cavity Surface Emitting Laser Hygrometer
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/VCSEL
 - aircraft:
   - WB-57
@@ -2228,7 +2229,7 @@ instruments:
   - ER-2
   id: APS
   title: Wing Tip Air Particulate Sampler
-  type: ~
+  type: ''
   url: https://airbornescience.nasa.gov/instrument/APS
 - aircraft:
   - DC-8
