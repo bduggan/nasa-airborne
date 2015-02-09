@@ -44,7 +44,9 @@ while ($more) {
     warn "getting page $page\n";
     my $url = "https://airbornescience.nasa.gov/instrument/all";
     $url .= "?page=$page" if $page;
-    my $dom = $ua->get($url)->success->dom;
+    my $tx = $ua->get($url);
+    my $res = $tx->success or die Dumper($tx->error);
+    my $dom = $res->dom;
 
     $dom->find('tr')->each(
       sub {
